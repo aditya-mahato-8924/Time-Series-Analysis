@@ -1,0 +1,1201 @@
+Order_Date,Region,City,Product_Category,Product_Name,Sales,Quantity,Profit,Customer_Segment,Payment_Mode,Year,Month,Quarter
+2022-01-01,North,Lucknow,2-Wheeler EV,Ola S1,529313.66,5,63216.51,Individual,Cash,2022,1,1
+2022-01-02,North,Delhi,4-Wheeler EV,MG ZS EV,6319498.01,4,644453.76,Corporate,Lease,2022,1,1
+2022-01-03,West,Pune,2-Wheeler EV,Ola S1,847858.7,5,134120.14,Corporate,Lease,2022,1,1
+2022-01-03,West,Ahmedabad,2-Wheeler EV,Ather 450X,480574.74,3,83880.68,Fleet,Lease,2022,1,1
+2022-01-04,West,Ahmedabad,4-Wheeler EV,MG ZS EV,6104807.84,3,801104.87,Individual,Loan,2022,1,1
+2022-01-04,South,Hyderabad,2-Wheeler EV,Ather 450X,490698.95,3,64490.08,Individual,UPI,2022,1,1
+2022-01-05,South,Bangalore,2-Wheeler EV,Ola S1,458392.65,4,70390.42,Corporate,Lease,2022,1,1
+2022-01-06,East,Kolkata,Commercial EV,Electric Auto,1124410.09,1,174345.49,Individual,Cash,2022,1,1
+2022-01-07,South,Hyderabad,2-Wheeler EV,Ather 450X,150652.5,1,20990.53,Individual,Cash,2022,1,1
+2022-01-07,North,Lucknow,4-Wheeler EV,Mahindra XUV400,3755186.83,3,374364.1,Fleet,Loan,2022,1,1
+2022-01-07,North,Lucknow,Commercial EV,Electric Auto,2027420.56,5,216897.57,Corporate,Lease,2022,1,1
+2022-01-09,West,Mumbai,4-Wheeler EV,Tata Nexon EV,11568531.5,4,1908629.0,Corporate,Loan,2022,1,1
+2022-01-09,North,Delhi,4-Wheeler EV,Mahindra XUV400,4091095.79,2,586858.27,Individual,Cash,2022,1,1
+2022-01-09,North,Lucknow,2-Wheeler EV,Ola S1,339380.72,2,41863.6,Fleet,Cash,2022,1,1
+2022-01-10,North,Delhi,4-Wheeler EV,Mahindra XUV400,7645981.54,5,1347739.48,Individual,UPI,2022,1,1
+2022-01-10,North,Chandigarh,4-Wheeler EV,Tata Nexon EV,1459568.61,1,125972.41,Individual,Loan,2022,1,1
+2022-01-10,East,Patna,4-Wheeler EV,Tata Nexon EV,4795177.8,3,726013.46,Corporate,Lease,2022,1,1
+2022-01-11,North,Chandigarh,Commercial EV,Electric Auto,953705.17,2,103690.55,Individual,Cash,2022,1,1
+2022-01-12,West,Mumbai,Commercial EV,Electric Auto,1500505.12,2,150705.93,Individual,Loan,2022,1,1
+2022-01-12,East,Kolkata,2-Wheeler EV,TVS iQube,748790.28,5,93524.13,Individual,UPI,2022,1,1
+2022-01-13,North,Delhi,4-Wheeler EV,Mahindra XUV400,2380893.16,1,228540.46,Corporate,UPI,2022,1,1
+2022-01-13,South,Chennai,2-Wheeler EV,TVS iQube,909053.31,5,73450.42,Corporate,Lease,2022,1,1
+2022-01-17,East,Kolkata,2-Wheeler EV,TVS iQube,807249.59,5,111908.8,Individual,Cash,2022,1,1
+2022-01-17,North,Lucknow,2-Wheeler EV,Ola S1,608875.94,5,54555.87,Fleet,UPI,2022,1,1
+2022-01-18,West,Pune,4-Wheeler EV,MG ZS EV,9524802.14,4,962491.66,Fleet,Lease,2022,1,1
+2022-01-18,North,Chandigarh,2-Wheeler EV,Ather 450X,525328.37,3,42614.45,Fleet,Cash,2022,1,1
+2022-01-20,West,Ahmedabad,Commercial EV,Electric Auto,1876389.5,2,200797.99,Individual,Loan,2022,1,1
+2022-01-22,North,Lucknow,4-Wheeler EV,MG ZS EV,2233056.14,1,266126.55,Corporate,Lease,2022,1,1
+2022-01-22,South,Bangalore,2-Wheeler EV,Ola S1,215008.86,2,23258.79,Fleet,Cash,2022,1,1
+2022-01-26,North,Chandigarh,2-Wheeler EV,Ola S1,515753.42,3,44119.06,Corporate,Cash,2022,1,1
+2022-01-30,North,Delhi,4-Wheeler EV,Tata Nexon EV,6742531.79,3,986041.02,Fleet,UPI,2022,1,1
+2022-02-02,West,Pune,2-Wheeler EV,TVS iQube,374088.08,2,64158.36,Corporate,Lease,2022,2,1
+2022-02-02,South,Bangalore,2-Wheeler EV,Ather 450X,653822.24,4,70089.25,Fleet,Cash,2022,2,1
+2022-02-02,South,Chennai,4-Wheeler EV,Mahindra XUV400,4226659.91,2,388871.28,Corporate,Cash,2022,2,1
+2022-02-02,East,Bhubaneswar,4-Wheeler EV,Tata Nexon EV,5095060.99,3,869203.51,Corporate,Cash,2022,2,1
+2022-02-05,West,Mumbai,Commercial EV,Electric Truck,848759.8,2,77217.91,Fleet,UPI,2022,2,1
+2022-02-06,North,Chandigarh,2-Wheeler EV,TVS iQube,415839.84,4,50629.1,Fleet,Cash,2022,2,1
+2022-02-06,East,Kolkata,Commercial EV,Electric Truck,777255.56,2,78899.36,Individual,UPI,2022,2,1
+2022-02-07,South,Hyderabad,2-Wheeler EV,TVS iQube,283605.79,2,38125.27,Fleet,Lease,2022,2,1
+2022-02-07,North,Chandigarh,4-Wheeler EV,Mahindra XUV400,14568961.48,5,2143182.28,Corporate,Cash,2022,2,1
+2022-02-08,North,Lucknow,4-Wheeler EV,Tata Nexon EV,9809251.7,4,1611371.97,Corporate,Lease,2022,2,1
+2022-02-08,East,Kolkata,Commercial EV,Electric Truck,1415658.62,3,158857.37,Individual,Lease,2022,2,1
+2022-02-08,West,Pune,4-Wheeler EV,MG ZS EV,2247290.5,2,183668.98,Individual,UPI,2022,2,1
+2022-02-10,West,Ahmedabad,Commercial EV,Electric Truck,5593379.2,5,896040.9,Corporate,Loan,2022,2,1
+2022-02-11,East,Patna,4-Wheeler EV,Tata Nexon EV,2583646.92,1,385332.88,Individual,Lease,2022,2,1
+2022-02-14,North,Delhi,2-Wheeler EV,TVS iQube,408125.09,3,43963.57,Individual,Lease,2022,2,1
+2022-02-17,West,Mumbai,Commercial EV,Electric Truck,962845.26,2,152794.42,Fleet,Lease,2022,2,1
+2022-02-18,East,Bhubaneswar,2-Wheeler EV,Ola S1,879613.58,5,131414.8,Corporate,Lease,2022,2,1
+2022-02-18,West,Pune,4-Wheeler EV,Mahindra XUV400,6378930.94,5,1126833.78,Corporate,Cash,2022,2,1
+2022-02-19,South,Chennai,2-Wheeler EV,TVS iQube,514428.63,3,76674.93,Individual,Lease,2022,2,1
+2022-02-20,North,Chandigarh,Commercial EV,Electric Auto,2796740.97,3,406448.32,Individual,Cash,2022,2,1
+2022-02-21,South,Chennai,4-Wheeler EV,MG ZS EV,4366241.63,2,739552.06,Individual,UPI,2022,2,1
+2022-02-21,West,Pune,2-Wheeler EV,TVS iQube,371058.29,2,32847.29,Fleet,Loan,2022,2,1
+2022-02-22,West,Ahmedabad,Commercial EV,Electric Auto,402937.98,1,47907.4,Fleet,UPI,2022,2,1
+2022-02-23,North,Chandigarh,4-Wheeler EV,MG ZS EV,5737128.58,4,951031.96,Individual,Loan,2022,2,1
+2022-02-24,East,Kolkata,2-Wheeler EV,Ather 450X,756787.97,4,61575.16,Corporate,Lease,2022,2,1
+2022-02-24,North,Lucknow,2-Wheeler EV,Ather 450X,534934.95,5,81702.36,Fleet,Cash,2022,2,1
+2022-02-25,North,Chandigarh,Commercial EV,Electric Truck,3260086.41,4,562433.77,Corporate,UPI,2022,2,1
+2022-02-26,North,Lucknow,4-Wheeler EV,Mahindra XUV400,3631537.55,2,471644.65,Corporate,Loan,2022,2,1
+2022-02-27,East,Patna,2-Wheeler EV,Ola S1,113751.75,1,12968.48,Individual,UPI,2022,2,1
+2022-02-27,East,Patna,Commercial EV,Electric Truck,780829.0,1,85967.58,Individual,Loan,2022,2,1
+2022-02-27,East,Patna,2-Wheeler EV,Ola S1,303587.87,3,38661.81,Corporate,UPI,2022,2,1
+2022-02-28,West,Ahmedabad,Commercial EV,Electric Truck,837482.43,1,147011.74,Corporate,Lease,2022,2,1
+2022-03-04,West,Ahmedabad,2-Wheeler EV,TVS iQube,378596.89,3,56369.0,Fleet,Loan,2022,3,1
+2022-03-04,South,Chennai,2-Wheeler EV,TVS iQube,151293.72,1,17157.82,Fleet,Lease,2022,3,1
+2022-03-05,North,Delhi,2-Wheeler EV,TVS iQube,342523.85,2,54998.32,Fleet,UPI,2022,3,1
+2022-03-05,West,Ahmedabad,2-Wheeler EV,TVS iQube,408475.39,4,71641.09,Individual,UPI,2022,3,1
+2022-03-06,North,Delhi,4-Wheeler EV,MG ZS EV,7011124.27,4,1088482.77,Fleet,UPI,2022,3,1
+2022-03-10,West,Pune,Commercial EV,Electric Truck,953130.7,3,85358.84,Corporate,UPI,2022,3,1
+2022-03-11,West,Pune,2-Wheeler EV,Ather 450X,284049.49,2,42490.5,Fleet,Loan,2022,3,1
+2022-03-11,North,Chandigarh,4-Wheeler EV,MG ZS EV,5617477.56,2,500698.33,Corporate,Loan,2022,3,1
+2022-03-13,South,Hyderabad,4-Wheeler EV,Mahindra XUV400,10894234.32,4,884003.69,Fleet,Cash,2022,3,1
+2022-03-14,South,Bangalore,4-Wheeler EV,Tata Nexon EV,1461697.29,1,136003.35,Corporate,UPI,2022,3,1
+2022-03-16,South,Bangalore,4-Wheeler EV,Tata Nexon EV,1657201.01,1,150456.26,Individual,Cash,2022,3,1
+2022-03-18,West,Pune,2-Wheeler EV,Ather 450X,218424.63,2,36107.8,Fleet,Loan,2022,3,1
+2022-03-21,East,Kolkata,2-Wheeler EV,TVS iQube,328721.26,2,36178.4,Fleet,Lease,2022,3,1
+2022-03-22,North,Lucknow,Commercial EV,Electric Auto,506445.44,1,72495.51,Fleet,Loan,2022,3,1
+2022-03-25,West,Mumbai,2-Wheeler EV,TVS iQube,107929.97,1,11732.14,Fleet,Cash,2022,3,1
+2022-03-25,West,Pune,Commercial EV,Electric Truck,533823.82,1,54886.82,Individual,UPI,2022,3,1
+2022-03-29,South,Bangalore,2-Wheeler EV,Ola S1,1002692.91,5,160823.66,Fleet,Loan,2022,3,1
+2022-03-30,North,Delhi,2-Wheeler EV,Ola S1,269758.71,2,25897.43,Individual,Loan,2022,3,1
+2022-03-31,West,Mumbai,Commercial EV,Electric Auto,1117893.49,3,138614.95,Corporate,UPI,2022,3,1
+2022-03-31,West,Ahmedabad,2-Wheeler EV,TVS iQube,379381.63,2,42431.2,Corporate,Loan,2022,3,1
+2022-04-02,North,Delhi,Commercial EV,E-Rickshaw,2042194.31,3,271299.43,Individual,Loan,2022,4,2
+2022-04-03,West,Mumbai,2-Wheeler EV,Ola S1,696063.56,5,77073.53,Individual,UPI,2022,4,2
+2022-04-06,North,Lucknow,4-Wheeler EV,Tata Nexon EV,3571808.46,2,632952.09,Fleet,Cash,2022,4,2
+2022-04-09,West,Pune,4-Wheeler EV,MG ZS EV,4283371.42,3,359229.7,Individual,Lease,2022,4,2
+2022-04-09,South,Hyderabad,4-Wheeler EV,Tata Nexon EV,4659375.2,2,732381.32,Fleet,Cash,2022,4,2
+2022-04-09,West,Pune,Commercial EV,Electric Auto,3113859.66,4,369661.15,Fleet,Cash,2022,4,2
+2022-04-10,North,Delhi,Commercial EV,Electric Truck,2942026.46,3,398855.91,Individual,Loan,2022,4,2
+2022-04-11,East,Kolkata,4-Wheeler EV,Tata Nexon EV,5876322.75,4,1014923.58,Corporate,UPI,2022,4,2
+2022-04-12,West,Mumbai,4-Wheeler EV,Tata Nexon EV,1649749.06,1,159811.44,Individual,Lease,2022,4,2
+2022-04-12,North,Lucknow,2-Wheeler EV,Ather 450X,117987.41,1,14161.23,Corporate,Loan,2022,4,2
+2022-04-13,North,Chandigarh,2-Wheeler EV,Ather 450X,466605.23,4,63416.3,Individual,Lease,2022,4,2
+2022-04-13,West,Pune,4-Wheeler EV,Tata Nexon EV,2753505.49,2,284084.38,Fleet,Cash,2022,4,2
+2022-04-13,West,Mumbai,Commercial EV,E-Rickshaw,1241089.94,3,218772.23,Individual,Loan,2022,4,2
+2022-04-15,East,Bhubaneswar,4-Wheeler EV,Mahindra XUV400,5997983.51,4,992126.06,Individual,Lease,2022,4,2
+2022-04-15,North,Lucknow,Commercial EV,E-Rickshaw,3844403.08,5,373510.48,Individual,Loan,2022,4,2
+2022-04-16,East,Patna,4-Wheeler EV,MG ZS EV,5337083.1,4,833543.08,Individual,Lease,2022,4,2
+2022-04-18,South,Chennai,2-Wheeler EV,TVS iQube,544624.38,4,65917.54,Fleet,Cash,2022,4,2
+2022-04-18,East,Kolkata,2-Wheeler EV,Ola S1,140744.6,1,20192.81,Individual,Cash,2022,4,2
+2022-04-20,South,Bangalore,4-Wheeler EV,MG ZS EV,2114236.38,1,189756.78,Individual,Lease,2022,4,2
+2022-04-21,North,Lucknow,Commercial EV,E-Rickshaw,1918096.23,2,277709.19,Individual,Loan,2022,4,2
+2022-04-22,North,Lucknow,Commercial EV,Electric Truck,628707.88,1,90731.9,Fleet,Loan,2022,4,2
+2022-04-26,North,Lucknow,2-Wheeler EV,Ather 450X,664386.21,4,106384.32,Fleet,UPI,2022,4,2
+2022-04-28,East,Bhubaneswar,4-Wheeler EV,MG ZS EV,2055174.36,1,271699.98,Fleet,Loan,2022,4,2
+2022-04-28,East,Patna,4-Wheeler EV,MG ZS EV,8729584.46,5,1454920.95,Corporate,Loan,2022,4,2
+2022-05-03,North,Delhi,2-Wheeler EV,Ola S1,784706.67,5,130460.13,Corporate,Loan,2022,5,2
+2022-05-05,East,Bhubaneswar,4-Wheeler EV,MG ZS EV,1894170.85,1,213873.3,Fleet,UPI,2022,5,2
+2022-05-05,East,Bhubaneswar,2-Wheeler EV,Ather 450X,855839.02,5,104094.01,Fleet,Loan,2022,5,2
+2022-05-06,East,Patna,Commercial EV,Electric Truck,4606025.94,4,755586.07,Fleet,Cash,2022,5,2
+2022-05-09,North,Lucknow,2-Wheeler EV,TVS iQube,116631.79,1,16998.56,Fleet,Lease,2022,5,2
+2022-05-09,South,Hyderabad,2-Wheeler EV,Ola S1,1062960.12,5,140764.46,Fleet,Lease,2022,5,2
+2022-05-14,North,Lucknow,4-Wheeler EV,MG ZS EV,6573512.78,3,684709.28,Corporate,Lease,2022,5,2
+2022-05-14,South,Hyderabad,2-Wheeler EV,Ather 450X,178255.98,1,23541.49,Individual,Cash,2022,5,2
+2022-05-15,North,Delhi,4-Wheeler EV,MG ZS EV,8318055.24,4,1034468.38,Individual,UPI,2022,5,2
+2022-05-19,East,Kolkata,4-Wheeler EV,MG ZS EV,1765977.42,1,271789.53,Corporate,Loan,2022,5,2
+2022-05-21,East,Bhubaneswar,Commercial EV,E-Rickshaw,2013641.66,4,165007.76,Individual,Lease,2022,5,2
+2022-05-22,West,Pune,Commercial EV,Electric Truck,1961220.92,3,256143.24,Individual,Cash,2022,5,2
+2022-05-23,West,Pune,4-Wheeler EV,MG ZS EV,2129848.13,1,239047.96,Individual,Loan,2022,5,2
+2022-05-23,West,Pune,Commercial EV,E-Rickshaw,3407232.72,5,512943.44,Fleet,Loan,2022,5,2
+2022-05-25,South,Chennai,4-Wheeler EV,Tata Nexon EV,2209039.23,1,214944.49,Individual,UPI,2022,5,2
+2022-05-26,North,Delhi,Commercial EV,Electric Truck,577022.55,2,80415.48,Individual,Cash,2022,5,2
+2022-05-26,West,Ahmedabad,Commercial EV,Electric Truck,1238342.6,3,196125.95,Fleet,Cash,2022,5,2
+2022-05-26,East,Kolkata,4-Wheeler EV,Mahindra XUV400,1856347.76,1,259667.6,Corporate,Loan,2022,5,2
+2022-05-26,North,Chandigarh,4-Wheeler EV,Tata Nexon EV,4374043.28,2,644648.12,Individual,UPI,2022,5,2
+2022-05-27,South,Chennai,Commercial EV,Electric Truck,1331830.82,3,185497.37,Fleet,Lease,2022,5,2
+2022-05-27,North,Delhi,2-Wheeler EV,Ather 450X,140146.7,1,22228.87,Corporate,UPI,2022,5,2
+2022-05-31,South,Chennai,Commercial EV,E-Rickshaw,1607306.94,2,163360.6,Individual,UPI,2022,5,2
+2022-05-31,West,Mumbai,4-Wheeler EV,Mahindra XUV400,6959581.41,5,723676.45,Individual,UPI,2022,5,2
+2022-06-02,North,Delhi,2-Wheeler EV,Ola S1,440891.44,4,52478.8,Individual,Cash,2022,6,2
+2022-06-02,West,Ahmedabad,2-Wheeler EV,Ola S1,125876.71,1,13366.5,Corporate,Cash,2022,6,2
+2022-06-04,South,Chennai,2-Wheeler EV,TVS iQube,314680.04,2,48318.85,Individual,UPI,2022,6,2
+2022-06-04,South,Hyderabad,4-Wheeler EV,MG ZS EV,8692036.64,5,1156329.0,Individual,Cash,2022,6,2
+2022-06-07,North,Lucknow,2-Wheeler EV,Ola S1,385487.88,3,31249.16,Fleet,UPI,2022,6,2
+2022-06-08,North,Delhi,Commercial EV,Electric Auto,2582587.54,3,344011.91,Individual,UPI,2022,6,2
+2022-06-09,South,Bangalore,4-Wheeler EV,Tata Nexon EV,1508635.43,1,151526.71,Corporate,Cash,2022,6,2
+2022-06-09,North,Chandigarh,4-Wheeler EV,MG ZS EV,5930414.68,4,599396.31,Fleet,UPI,2022,6,2
+2022-06-10,West,Mumbai,4-Wheeler EV,MG ZS EV,10442564.7,5,1615510.27,Corporate,Loan,2022,6,2
+2022-06-11,West,Pune,2-Wheeler EV,TVS iQube,503227.54,3,86882.0,Individual,Lease,2022,6,2
+2022-06-11,West,Pune,2-Wheeler EV,TVS iQube,140856.61,1,22368.66,Corporate,UPI,2022,6,2
+2022-06-12,North,Delhi,4-Wheeler EV,Mahindra XUV400,6418634.63,3,957776.21,Individual,Lease,2022,6,2
+2022-06-13,East,Patna,4-Wheeler EV,MG ZS EV,6137995.23,4,642315.04,Individual,Cash,2022,6,2
+2022-06-14,East,Bhubaneswar,2-Wheeler EV,Ola S1,504732.13,3,72896.0,Fleet,Cash,2022,6,2
+2022-06-14,West,Mumbai,Commercial EV,Electric Truck,1267615.47,4,126916.9,Corporate,Cash,2022,6,2
+2022-06-14,South,Bangalore,2-Wheeler EV,Ather 450X,374875.23,2,60233.81,Individual,Cash,2022,6,2
+2022-06-16,West,Mumbai,2-Wheeler EV,Ola S1,371169.49,4,63247.16,Individual,Cash,2022,6,2
+2022-06-16,South,Bangalore,Commercial EV,E-Rickshaw,914838.01,1,75602.37,Corporate,UPI,2022,6,2
+2022-06-17,South,Chennai,2-Wheeler EV,Ola S1,116232.18,1,10752.18,Fleet,Lease,2022,6,2
+2022-06-17,East,Patna,4-Wheeler EV,Tata Nexon EV,3766906.38,3,660882.61,Corporate,Loan,2022,6,2
+2022-06-18,East,Bhubaneswar,2-Wheeler EV,Ola S1,384482.59,3,53775.19,Fleet,Cash,2022,6,2
+2022-06-18,West,Mumbai,2-Wheeler EV,Ola S1,509415.22,3,75452.65,Fleet,Cash,2022,6,2
+2022-06-21,South,Hyderabad,Commercial EV,Electric Auto,2175418.08,5,367611.82,Corporate,Cash,2022,6,2
+2022-06-21,North,Lucknow,Commercial EV,Electric Auto,3086781.55,3,322989.61,Individual,Loan,2022,6,2
+2022-06-23,East,Patna,Commercial EV,Electric Auto,1587351.32,3,241804.52,Corporate,UPI,2022,6,2
+2022-06-23,South,Chennai,2-Wheeler EV,Ather 450X,461728.67,3,39097.58,Fleet,UPI,2022,6,2
+2022-06-24,North,Lucknow,4-Wheeler EV,Tata Nexon EV,4294270.84,2,753372.24,Corporate,UPI,2022,6,2
+2022-06-25,East,Kolkata,2-Wheeler EV,Ola S1,412495.83,3,66736.45,Corporate,Loan,2022,6,2
+2022-06-26,East,Patna,4-Wheeler EV,Tata Nexon EV,8121317.3,5,765405.87,Corporate,Cash,2022,6,2
+2022-06-26,South,Chennai,2-Wheeler EV,Ola S1,924624.84,5,156241.73,Fleet,UPI,2022,6,2
+2022-06-26,East,Kolkata,4-Wheeler EV,MG ZS EV,5854348.45,3,668634.29,Individual,Lease,2022,6,2
+2022-06-30,South,Bangalore,4-Wheeler EV,MG ZS EV,9938367.67,5,1637719.93,Corporate,UPI,2022,6,2
+2022-07-04,East,Patna,Commercial EV,Electric Truck,3200729.31,4,468234.55,Corporate,Loan,2022,7,3
+2022-07-04,North,Chandigarh,4-Wheeler EV,Tata Nexon EV,2441740.45,1,246709.25,Individual,UPI,2022,7,3
+2022-07-04,East,Patna,Commercial EV,E-Rickshaw,3554030.73,4,443540.58,Fleet,Cash,2022,7,3
+2022-07-07,South,Bangalore,4-Wheeler EV,MG ZS EV,1235437.3,1,115700.22,Fleet,Cash,2022,7,3
+2022-07-08,South,Chennai,2-Wheeler EV,Ather 450X,313823.57,2,48572.07,Individual,Lease,2022,7,3
+2022-07-10,North,Lucknow,4-Wheeler EV,MG ZS EV,4547366.77,3,371630.0,Fleet,Lease,2022,7,3
+2022-07-12,North,Lucknow,Commercial EV,E-Rickshaw,1151581.1,1,167574.29,Individual,Lease,2022,7,3
+2022-07-12,South,Hyderabad,2-Wheeler EV,Ola S1,132611.92,1,17310.72,Fleet,UPI,2022,7,3
+2022-07-14,West,Mumbai,4-Wheeler EV,MG ZS EV,5392561.24,3,700702.28,Individual,UPI,2022,7,3
+2022-07-14,South,Hyderabad,Commercial EV,E-Rickshaw,1836308.55,3,215765.0,Fleet,UPI,2022,7,3
+2022-07-15,North,Delhi,4-Wheeler EV,MG ZS EV,1698398.56,1,136583.18,Fleet,Loan,2022,7,3
+2022-07-16,North,Lucknow,2-Wheeler EV,Ola S1,693366.37,4,91750.81,Corporate,Lease,2022,7,3
+2022-07-17,South,Hyderabad,2-Wheeler EV,Ola S1,635985.6,4,73893.7,Individual,Cash,2022,7,3
+2022-07-17,East,Kolkata,Commercial EV,Electric Truck,840031.86,3,132122.41,Corporate,Cash,2022,7,3
+2022-07-19,North,Lucknow,2-Wheeler EV,TVS iQube,182942.41,1,15832.75,Corporate,Cash,2022,7,3
+2022-07-21,South,Chennai,Commercial EV,E-Rickshaw,599809.56,1,76324.03,Corporate,Lease,2022,7,3
+2022-07-23,East,Bhubaneswar,4-Wheeler EV,Mahindra XUV400,3892648.07,3,518455.1,Fleet,UPI,2022,7,3
+2022-07-23,East,Patna,2-Wheeler EV,TVS iQube,138028.32,1,13231.74,Corporate,Loan,2022,7,3
+2022-07-24,East,Kolkata,4-Wheeler EV,MG ZS EV,7715381.59,5,1310486.14,Fleet,Loan,2022,7,3
+2022-07-27,South,Chennai,4-Wheeler EV,Mahindra XUV400,7233646.82,3,1096310.27,Corporate,UPI,2022,7,3
+2022-07-29,North,Chandigarh,2-Wheeler EV,TVS iQube,583675.52,5,79996.56,Fleet,Loan,2022,7,3
+2022-07-30,South,Chennai,Commercial EV,E-Rickshaw,3502026.13,3,582986.0,Corporate,UPI,2022,7,3
+2022-07-31,West,Pune,4-Wheeler EV,Tata Nexon EV,5175336.22,3,661682.02,Corporate,Loan,2022,7,3
+2022-08-01,East,Patna,4-Wheeler EV,Mahindra XUV400,8817097.9,5,1445170.83,Individual,Loan,2022,8,3
+2022-08-03,East,Kolkata,4-Wheeler EV,MG ZS EV,7925134.01,4,755128.43,Individual,Lease,2022,8,3
+2022-08-03,East,Bhubaneswar,2-Wheeler EV,Ather 450X,119085.55,1,19788.66,Fleet,Lease,2022,8,3
+2022-08-05,West,Mumbai,Commercial EV,E-Rickshaw,1955503.74,5,243951.84,Fleet,Lease,2022,8,3
+2022-08-05,East,Patna,Commercial EV,E-Rickshaw,1684571.82,2,268684.89,Individual,Cash,2022,8,3
+2022-08-06,South,Chennai,Commercial EV,Electric Auto,2307103.57,4,397050.47,Fleet,Cash,2022,8,3
+2022-08-13,East,Bhubaneswar,2-Wheeler EV,TVS iQube,93287.88,1,12559.45,Fleet,Cash,2022,8,3
+2022-08-14,East,Bhubaneswar,Commercial EV,Electric Auto,1166710.46,4,164663.31,Corporate,Lease,2022,8,3
+2022-08-14,West,Mumbai,2-Wheeler EV,TVS iQube,420543.75,3,61132.34,Corporate,Loan,2022,8,3
+2022-08-14,North,Delhi,Commercial EV,E-Rickshaw,2471893.76,3,409882.05,Individual,Cash,2022,8,3
+2022-08-18,North,Delhi,4-Wheeler EV,Mahindra XUV400,4065052.64,3,667450.65,Individual,Cash,2022,8,3
+2022-08-18,South,Chennai,2-Wheeler EV,Ather 450X,953940.47,5,86721.44,Individual,UPI,2022,8,3
+2022-08-19,West,Ahmedabad,Commercial EV,Electric Auto,3336641.04,5,537142.14,Corporate,Cash,2022,8,3
+2022-08-19,West,Ahmedabad,2-Wheeler EV,TVS iQube,331136.02,2,31729.03,Corporate,Lease,2022,8,3
+2022-08-20,East,Kolkata,2-Wheeler EV,Ather 450X,205145.54,1,17108.66,Fleet,Lease,2022,8,3
+2022-08-20,West,Ahmedabad,Commercial EV,E-Rickshaw,503948.33,1,78902.01,Individual,Loan,2022,8,3
+2022-08-22,East,Kolkata,2-Wheeler EV,Ather 450X,530803.28,5,77328.63,Individual,Cash,2022,8,3
+2022-08-23,East,Patna,2-Wheeler EV,Ola S1,734589.88,5,95020.2,Fleet,UPI,2022,8,3
+2022-08-25,South,Chennai,4-Wheeler EV,Tata Nexon EV,8165520.53,5,1065000.43,Fleet,Lease,2022,8,3
+2022-08-28,North,Lucknow,4-Wheeler EV,MG ZS EV,4957733.78,3,626242.25,Fleet,UPI,2022,8,3
+2022-08-31,West,Ahmedabad,2-Wheeler EV,TVS iQube,772487.79,4,126305.04,Fleet,UPI,2022,8,3
+2022-09-01,West,Mumbai,2-Wheeler EV,TVS iQube,359861.94,2,42045.53,Fleet,UPI,2022,9,3
+2022-09-01,West,Pune,Commercial EV,Electric Auto,3420311.18,4,449636.59,Fleet,Loan,2022,9,3
+2022-09-02,South,Bangalore,4-Wheeler EV,Mahindra XUV400,4646133.52,2,749234.08,Individual,Cash,2022,9,3
+2022-09-02,North,Delhi,4-Wheeler EV,Tata Nexon EV,3815400.94,3,317708.44,Fleet,Cash,2022,9,3
+2022-09-03,North,Delhi,2-Wheeler EV,TVS iQube,548183.72,4,52491.88,Fleet,Lease,2022,9,3
+2022-09-05,South,Hyderabad,2-Wheeler EV,TVS iQube,103873.26,1,13803.74,Individual,Lease,2022,9,3
+2022-09-07,South,Bangalore,Commercial EV,Electric Truck,545301.17,1,58693.8,Corporate,UPI,2022,9,3
+2022-09-08,South,Chennai,Commercial EV,Electric Truck,3106896.13,4,299232.13,Fleet,Loan,2022,9,3
+2022-09-10,South,Chennai,4-Wheeler EV,Tata Nexon EV,2923830.93,2,370675.9,Individual,Loan,2022,9,3
+2022-09-11,South,Bangalore,Commercial EV,Electric Auto,566977.87,1,84262.18,Corporate,Lease,2022,9,3
+2022-09-13,West,Pune,2-Wheeler EV,Ola S1,449603.76,3,71840.65,Corporate,Cash,2022,9,3
+2022-09-14,North,Lucknow,Commercial EV,Electric Auto,836160.54,2,138885.16,Individual,Loan,2022,9,3
+2022-09-15,North,Lucknow,2-Wheeler EV,Ola S1,148357.51,1,14733.48,Fleet,Lease,2022,9,3
+2022-09-16,South,Hyderabad,4-Wheeler EV,MG ZS EV,3543641.12,2,611750.66,Individual,Cash,2022,9,3
+2022-09-20,North,Delhi,Commercial EV,Electric Truck,2835132.53,5,303764.66,Fleet,Cash,2022,9,3
+2022-09-22,South,Hyderabad,2-Wheeler EV,Ola S1,577423.7,3,79868.97,Corporate,Lease,2022,9,3
+2022-09-25,North,Delhi,4-Wheeler EV,Mahindra XUV400,7901786.51,4,848384.97,Corporate,Loan,2022,9,3
+2022-09-25,West,Ahmedabad,4-Wheeler EV,Tata Nexon EV,1342866.52,1,202917.57,Fleet,Cash,2022,9,3
+2022-09-29,West,Pune,2-Wheeler EV,TVS iQube,315323.1,2,35476.7,Fleet,Cash,2022,9,3
+2022-09-30,East,Patna,2-Wheeler EV,TVS iQube,509031.43,3,61851.59,Individual,Lease,2022,9,3
+2022-09-30,North,Lucknow,Commercial EV,Electric Truck,559088.06,1,45217.41,Fleet,Lease,2022,9,3
+2022-10-01,North,Lucknow,2-Wheeler EV,TVS iQube,709201.04,5,68983.21,Individual,Lease,2022,10,4
+2022-10-01,South,Hyderabad,Commercial EV,Electric Truck,305957.71,1,38079.44,Individual,Loan,2022,10,4
+2022-10-02,South,Bangalore,4-Wheeler EV,Mahindra XUV400,6800511.59,5,1067297.48,Fleet,Lease,2022,10,4
+2022-10-02,East,Kolkata,Commercial EV,E-Rickshaw,2487385.41,3,279262.65,Individual,Cash,2022,10,4
+2022-10-03,South,Hyderabad,Commercial EV,Electric Truck,3436189.17,4,571156.71,Individual,UPI,2022,10,4
+2022-10-04,East,Patna,4-Wheeler EV,MG ZS EV,5143940.32,3,624559.48,Fleet,Lease,2022,10,4
+2022-10-06,West,Ahmedabad,4-Wheeler EV,Tata Nexon EV,5841190.4,3,883523.64,Corporate,Lease,2022,10,4
+2022-10-06,North,Lucknow,2-Wheeler EV,Ather 450X,830928.38,5,73258.87,Corporate,Lease,2022,10,4
+2022-10-07,West,Ahmedabad,Commercial EV,Electric Auto,686972.08,1,106523.94,Fleet,Loan,2022,10,4
+2022-10-09,East,Bhubaneswar,4-Wheeler EV,Tata Nexon EV,4578424.78,2,411886.55,Individual,UPI,2022,10,4
+2022-10-09,East,Kolkata,4-Wheeler EV,Tata Nexon EV,3357470.45,2,556643.68,Corporate,Lease,2022,10,4
+2022-10-09,North,Chandigarh,4-Wheeler EV,Mahindra XUV400,4390750.55,3,505609.13,Corporate,Loan,2022,10,4
+2022-10-16,South,Chennai,4-Wheeler EV,Mahindra XUV400,6117519.42,3,625811.28,Individual,Loan,2022,10,4
+2022-10-17,North,Delhi,4-Wheeler EV,Tata Nexon EV,7002329.99,3,1155729.85,Corporate,UPI,2022,10,4
+2022-10-19,East,Patna,Commercial EV,Electric Auto,1770049.93,4,160462.13,Fleet,Cash,2022,10,4
+2022-10-19,East,Bhubaneswar,Commercial EV,E-Rickshaw,2337312.96,5,385784.94,Fleet,Cash,2022,10,4
+2022-10-21,West,Ahmedabad,4-Wheeler EV,Tata Nexon EV,2298136.93,1,393294.8,Individual,UPI,2022,10,4
+2022-10-22,North,Chandigarh,4-Wheeler EV,Mahindra XUV400,2653451.24,1,330512.79,Fleet,UPI,2022,10,4
+2022-10-22,South,Hyderabad,2-Wheeler EV,Ather 450X,937510.43,5,152158.94,Individual,Cash,2022,10,4
+2022-10-22,West,Pune,Commercial EV,Electric Auto,562674.18,1,88375.61,Individual,Lease,2022,10,4
+2022-10-27,West,Mumbai,4-Wheeler EV,Tata Nexon EV,7195436.37,5,1093018.85,Fleet,Cash,2022,10,4
+2022-10-28,North,Lucknow,2-Wheeler EV,TVS iQube,361133.44,2,56511.76,Corporate,UPI,2022,10,4
+2022-10-28,West,Ahmedabad,Commercial EV,Electric Truck,4291145.8,4,455134.84,Fleet,UPI,2022,10,4
+2022-10-29,South,Hyderabad,2-Wheeler EV,Ola S1,623160.21,4,80757.28,Individual,Cash,2022,10,4
+2022-10-30,East,Kolkata,2-Wheeler EV,TVS iQube,158099.43,1,17624.86,Individual,Lease,2022,10,4
+2022-11-01,East,Patna,Commercial EV,Electric Auto,2220593.38,3,330316.09,Fleet,Cash,2022,11,4
+2022-11-02,South,Hyderabad,4-Wheeler EV,MG ZS EV,13958447.09,5,2469463.06,Corporate,Loan,2022,11,4
+2022-11-02,North,Lucknow,2-Wheeler EV,Ather 450X,169948.95,1,21721.82,Fleet,UPI,2022,11,4
+2022-11-02,East,Patna,4-Wheeler EV,Mahindra XUV400,6018950.91,4,813797.66,Fleet,UPI,2022,11,4
+2022-11-04,South,Chennai,Commercial EV,E-Rickshaw,4813363.98,5,697427.37,Corporate,Cash,2022,11,4
+2022-11-07,North,Lucknow,2-Wheeler EV,Ather 450X,102764.68,1,16578.41,Individual,Lease,2022,11,4
+2022-11-07,North,Delhi,2-Wheeler EV,TVS iQube,137425.61,1,21523.84,Corporate,UPI,2022,11,4
+2022-11-07,North,Chandigarh,4-Wheeler EV,Mahindra XUV400,8411686.42,4,1464484.38,Corporate,Loan,2022,11,4
+2022-11-08,West,Mumbai,4-Wheeler EV,Tata Nexon EV,1519114.39,1,238080.03,Fleet,Loan,2022,11,4
+2022-11-08,West,Mumbai,4-Wheeler EV,Tata Nexon EV,2582755.59,1,296445.24,Individual,Loan,2022,11,4
+2022-11-10,South,Chennai,2-Wheeler EV,Ola S1,201965.49,2,26943.28,Fleet,Cash,2022,11,4
+2022-11-11,North,Lucknow,Commercial EV,Electric Truck,827766.66,2,114829.64,Fleet,Cash,2022,11,4
+2022-11-11,West,Pune,2-Wheeler EV,Ather 450X,378304.97,2,34851.33,Corporate,Cash,2022,11,4
+2022-11-13,North,Delhi,4-Wheeler EV,Tata Nexon EV,8176136.32,5,901871.93,Individual,Loan,2022,11,4
+2022-11-14,North,Lucknow,Commercial EV,Electric Truck,1684662.26,2,145473.77,Individual,UPI,2022,11,4
+2022-11-14,West,Pune,Commercial EV,E-Rickshaw,2058402.0,5,299203.55,Fleet,Lease,2022,11,4
+2022-11-16,North,Lucknow,2-Wheeler EV,Ather 450X,875157.77,5,114161.22,Individual,Lease,2022,11,4
+2022-11-16,North,Lucknow,Commercial EV,E-Rickshaw,5539127.54,5,586087.58,Corporate,Loan,2022,11,4
+2022-11-17,East,Bhubaneswar,Commercial EV,E-Rickshaw,3672872.85,5,492976.85,Fleet,Cash,2022,11,4
+2022-11-17,West,Pune,4-Wheeler EV,MG ZS EV,5094875.15,3,547860.47,Individual,Cash,2022,11,4
+2022-11-17,East,Kolkata,2-Wheeler EV,Ola S1,526589.78,5,47712.56,Individual,Cash,2022,11,4
+2022-11-18,West,Mumbai,Commercial EV,E-Rickshaw,1591124.61,3,160364.6,Individual,Lease,2022,11,4
+2022-11-19,East,Kolkata,4-Wheeler EV,MG ZS EV,5099627.0,4,599938.05,Individual,Cash,2022,11,4
+2022-11-19,North,Delhi,2-Wheeler EV,Ola S1,511186.34,5,54378.86,Individual,Lease,2022,11,4
+2022-11-20,East,Kolkata,Commercial EV,Electric Truck,3011129.3,4,314257.14,Fleet,Lease,2022,11,4
+2022-11-23,West,Ahmedabad,2-Wheeler EV,TVS iQube,581026.61,3,87615.35,Fleet,Loan,2022,11,4
+2022-11-23,West,Mumbai,2-Wheeler EV,Ola S1,488959.17,3,42200.97,Corporate,UPI,2022,11,4
+2022-11-26,North,Delhi,4-Wheeler EV,MG ZS EV,8466603.12,4,1193436.2,Fleet,Cash,2022,11,4
+2022-11-28,West,Ahmedabad,Commercial EV,E-Rickshaw,1961171.52,2,274673.17,Corporate,Lease,2022,11,4
+2022-11-29,East,Patna,4-Wheeler EV,Mahindra XUV400,5647462.41,3,824235.04,Fleet,Lease,2022,11,4
+2022-12-01,East,Kolkata,4-Wheeler EV,MG ZS EV,3990454.19,3,584914.97,Fleet,Loan,2022,12,4
+2022-12-04,North,Delhi,2-Wheeler EV,TVS iQube,293836.65,2,25428.91,Corporate,Lease,2022,12,4
+2022-12-08,West,Mumbai,Commercial EV,Electric Truck,866039.63,2,78522.76,Fleet,Cash,2022,12,4
+2022-12-10,South,Chennai,2-Wheeler EV,Ola S1,828995.17,5,82448.4,Fleet,Cash,2022,12,4
+2022-12-11,South,Chennai,Commercial EV,E-Rickshaw,3214900.52,5,365563.0,Fleet,UPI,2022,12,4
+2022-12-11,East,Patna,4-Wheeler EV,Mahindra XUV400,11512450.98,5,989161.67,Individual,Loan,2022,12,4
+2022-12-15,South,Chennai,4-Wheeler EV,MG ZS EV,2435475.94,1,371850.81,Corporate,Cash,2022,12,4
+2022-12-15,North,Chandigarh,Commercial EV,E-Rickshaw,3788386.81,4,478011.65,Individual,Cash,2022,12,4
+2022-12-17,East,Kolkata,4-Wheeler EV,MG ZS EV,1314318.64,1,182825.64,Individual,UPI,2022,12,4
+2022-12-17,South,Hyderabad,2-Wheeler EV,Ather 450X,131395.33,1,15975.19,Individual,Loan,2022,12,4
+2022-12-18,East,Bhubaneswar,2-Wheeler EV,TVS iQube,547854.4,4,91369.13,Fleet,Loan,2022,12,4
+2022-12-19,South,Chennai,Commercial EV,E-Rickshaw,1399178.68,4,144308.58,Fleet,Lease,2022,12,4
+2022-12-21,North,Delhi,4-Wheeler EV,MG ZS EV,3231724.35,2,432915.7,Fleet,Cash,2022,12,4
+2022-12-22,East,Patna,Commercial EV,Electric Auto,1772214.59,4,174096.96,Individual,Lease,2022,12,4
+2022-12-23,South,Chennai,4-Wheeler EV,MG ZS EV,8724009.09,3,1160286.81,Individual,Loan,2022,12,4
+2022-12-24,West,Ahmedabad,4-Wheeler EV,MG ZS EV,5645796.61,3,568395.83,Corporate,Cash,2022,12,4
+2022-12-24,South,Hyderabad,Commercial EV,Electric Auto,3005517.78,5,359348.47,Corporate,Cash,2022,12,4
+2022-12-25,South,Hyderabad,2-Wheeler EV,Ather 450X,579444.0,5,58059.58,Corporate,Lease,2022,12,4
+2022-12-26,West,Pune,2-Wheeler EV,Ola S1,394654.57,3,52098.69,Fleet,UPI,2022,12,4
+2022-12-27,East,Kolkata,2-Wheeler EV,TVS iQube,174369.22,1,26284.53,Corporate,Cash,2022,12,4
+2022-12-27,West,Ahmedabad,Commercial EV,E-Rickshaw,4189193.54,4,586553.18,Fleet,Lease,2022,12,4
+2022-12-27,South,Bangalore,4-Wheeler EV,Tata Nexon EV,7029388.15,5,1253365.35,Fleet,Cash,2022,12,4
+2022-12-28,South,Hyderabad,2-Wheeler EV,Ola S1,344439.95,3,48505.67,Corporate,UPI,2022,12,4
+2022-12-31,North,Chandigarh,2-Wheeler EV,Ather 450X,927337.69,5,119976.41,Fleet,UPI,2022,12,4
+2023-01-02,West,Mumbai,Commercial EV,E-Rickshaw,1158698.64,1,204294.51,Fleet,Loan,2023,1,1
+2023-01-04,South,Chennai,2-Wheeler EV,TVS iQube,245373.27,1,25945.29,Individual,Loan,2023,1,1
+2023-01-05,South,Chennai,2-Wheeler EV,Ola S1,554971.85,2,66694.46,Individual,Lease,2023,1,1
+2023-01-06,South,Bangalore,Commercial EV,Electric Auto,4001409.09,4,662207.31,Corporate,Cash,2023,1,1
+2023-01-07,East,Bhubaneswar,4-Wheeler EV,Tata Nexon EV,4092730.91,1,383161.95,Individual,UPI,2023,1,1
+2023-01-09,East,Patna,Commercial EV,Electric Auto,2330526.89,5,262686.22,Corporate,Lease,2023,1,1
+2023-01-12,South,Hyderabad,Commercial EV,E-Rickshaw,5605781.46,4,737962.82,Corporate,Loan,2023,1,1
+2023-01-12,North,Delhi,4-Wheeler EV,Mahindra XUV400,2994905.0,1,449887.01,Individual,Loan,2023,1,1
+2023-01-14,South,Bangalore,2-Wheeler EV,TVS iQube,669407.09,3,55243.5,Corporate,UPI,2023,1,1
+2023-01-14,South,Hyderabad,2-Wheeler EV,TVS iQube,542716.57,2,64530.61,Fleet,Cash,2023,1,1
+2023-01-14,East,Patna,4-Wheeler EV,Tata Nexon EV,13658726.61,3,2192402.83,Individual,Loan,2023,1,1
+2023-01-17,West,Ahmedabad,4-Wheeler EV,Tata Nexon EV,13367451.94,3,2239005.36,Individual,UPI,2023,1,1
+2023-01-18,West,Mumbai,4-Wheeler EV,Mahindra XUV400,15235146.9,3,1452494.37,Fleet,UPI,2023,1,1
+2023-01-19,North,Chandigarh,2-Wheeler EV,Ather 450X,388483.54,1,50317.71,Fleet,UPI,2023,1,1
+2023-01-20,South,Bangalore,Commercial EV,Electric Truck,4143926.74,2,615140.99,Fleet,Cash,2023,1,1
+2023-01-20,North,Delhi,Commercial EV,Electric Truck,5383595.39,3,459714.37,Corporate,Loan,2023,1,1
+2023-01-20,North,Lucknow,4-Wheeler EV,MG ZS EV,20455257.67,5,2778355.07,Corporate,Lease,2023,1,1
+2023-01-22,West,Pune,Commercial EV,Electric Truck,2451517.05,2,341049.63,Individual,Loan,2023,1,1
+2023-01-22,North,Delhi,2-Wheeler EV,TVS iQube,927827.8,4,121981.05,Individual,Cash,2023,1,1
+2023-01-23,North,Delhi,2-Wheeler EV,Ather 450X,422224.85,1,73047.32,Individual,Cash,2023,1,1
+2023-01-24,South,Bangalore,2-Wheeler EV,Ather 450X,1723025.23,4,228699.57,Individual,UPI,2023,1,1
+2023-01-26,North,Lucknow,Commercial EV,Electric Auto,2543066.89,2,396956.07,Individual,UPI,2023,1,1
+2023-01-28,North,Chandigarh,4-Wheeler EV,Tata Nexon EV,10409130.55,3,1278829.79,Corporate,UPI,2023,1,1
+2023-01-30,North,Lucknow,Commercial EV,Electric Truck,8181948.55,5,1269261.95,Fleet,Cash,2023,1,1
+2023-01-31,South,Chennai,4-Wheeler EV,Tata Nexon EV,10443218.79,3,1547007.43,Corporate,Lease,2023,1,1
+2023-01-31,South,Bangalore,4-Wheeler EV,MG ZS EV,3444768.17,1,570556.61,Corporate,Lease,2023,1,1
+2023-02-02,South,Hyderabad,4-Wheeler EV,Tata Nexon EV,13481819.12,5,1655118.49,Corporate,Lease,2023,2,1
+2023-02-02,West,Ahmedabad,2-Wheeler EV,Ather 450X,919823.44,3,103866.91,Fleet,Cash,2023,2,1
+2023-02-04,South,Hyderabad,4-Wheeler EV,MG ZS EV,8319516.53,3,808388.28,Individual,Loan,2023,2,1
+2023-02-05,North,Delhi,4-Wheeler EV,MG ZS EV,20877978.01,4,3748138.86,Corporate,Loan,2023,2,1
+2023-02-05,West,Ahmedabad,4-Wheeler EV,Mahindra XUV400,4683918.01,1,522974.01,Fleet,Loan,2023,2,1
+2023-02-08,South,Hyderabad,4-Wheeler EV,Mahindra XUV400,15426342.5,4,1666585.83,Corporate,Loan,2023,2,1
+2023-02-09,West,Mumbai,Commercial EV,E-Rickshaw,5613246.53,3,892791.54,Corporate,UPI,2023,2,1
+2023-02-09,West,Pune,4-Wheeler EV,MG ZS EV,11659490.82,4,1505360.32,Corporate,Lease,2023,2,1
+2023-02-09,North,Chandigarh,4-Wheeler EV,Mahindra XUV400,2791518.6,1,366662.69,Individual,Loan,2023,2,1
+2023-02-10,East,Patna,2-Wheeler EV,Ola S1,260771.7,1,35808.08,Fleet,Lease,2023,2,1
+2023-02-10,West,Mumbai,2-Wheeler EV,Ola S1,1902443.85,5,339110.98,Corporate,UPI,2023,2,1
+2023-02-10,North,Chandigarh,4-Wheeler EV,MG ZS EV,7518274.82,2,1291750.29,Individual,UPI,2023,2,1
+2023-02-11,South,Hyderabad,Commercial EV,E-Rickshaw,2094413.14,1,238065.44,Fleet,Cash,2023,2,1
+2023-02-17,West,Mumbai,4-Wheeler EV,Tata Nexon EV,17925236.4,4,2276246.28,Corporate,Lease,2023,2,1
+2023-02-17,West,Ahmedabad,Commercial EV,Electric Auto,1840994.59,1,169547.15,Corporate,UPI,2023,2,1
+2023-02-18,West,Ahmedabad,2-Wheeler EV,Ola S1,454476.17,2,66888.01,Individual,Loan,2023,2,1
+2023-02-19,North,Chandigarh,4-Wheeler EV,MG ZS EV,12371790.25,3,1687571.96,Corporate,Cash,2023,2,1
+2023-02-19,North,Delhi,2-Wheeler EV,TVS iQube,856449.25,4,135239.71,Corporate,Cash,2023,2,1
+2023-02-19,North,Chandigarh,2-Wheeler EV,TVS iQube,1685980.66,4,298148.02,Corporate,UPI,2023,2,1
+2023-02-20,North,Lucknow,Commercial EV,Electric Truck,3786114.42,4,399061.25,Individual,Loan,2023,2,1
+2023-02-23,West,Mumbai,2-Wheeler EV,TVS iQube,634798.93,3,108679.84,Individual,Lease,2023,2,1
+2023-02-25,South,Chennai,4-Wheeler EV,Mahindra XUV400,21835426.99,5,3329446.2,Fleet,UPI,2023,2,1
+2023-02-28,South,Chennai,4-Wheeler EV,Tata Nexon EV,8890486.97,2,1418097.69,Individual,Lease,2023,2,1
+2023-02-28,North,Chandigarh,2-Wheeler EV,Ola S1,994824.85,4,137966.14,Fleet,UPI,2023,2,1
+2023-02-28,West,Mumbai,4-Wheeler EV,Mahindra XUV400,17827830.37,5,1575687.25,Corporate,Lease,2023,2,1
+2023-03-02,West,Ahmedabad,4-Wheeler EV,Tata Nexon EV,3890971.33,1,515744.16,Fleet,UPI,2023,3,1
+2023-03-04,East,Bhubaneswar,2-Wheeler EV,Ather 450X,1395530.9,4,141947.28,Individual,Cash,2023,3,1
+2023-03-04,East,Patna,4-Wheeler EV,Tata Nexon EV,18251735.7,4,3147306.34,Corporate,Loan,2023,3,1
+2023-03-06,North,Delhi,Commercial EV,Electric Truck,5072995.73,4,763912.5,Fleet,Loan,2023,3,1
+2023-03-07,North,Chandigarh,Commercial EV,Electric Truck,1801873.9,1,314991.38,Individual,Cash,2023,3,1
+2023-03-07,West,Mumbai,Commercial EV,Electric Auto,1477037.14,1,156155.35,Individual,Lease,2023,3,1
+2023-03-09,West,Pune,2-Wheeler EV,TVS iQube,1326998.38,5,117973.06,Corporate,Loan,2023,3,1
+2023-03-09,East,Kolkata,2-Wheeler EV,TVS iQube,1006060.86,3,136057.73,Corporate,Lease,2023,3,1
+2023-03-10,West,Pune,4-Wheeler EV,Mahindra XUV400,15718205.23,4,2559533.55,Corporate,Cash,2023,3,1
+2023-03-12,North,Chandigarh,4-Wheeler EV,Mahindra XUV400,7023513.98,2,688135.05,Corporate,Lease,2023,3,1
+2023-03-13,West,Ahmedabad,Commercial EV,Electric Auto,1700890.63,1,275705.05,Individual,Loan,2023,3,1
+2023-03-13,East,Kolkata,4-Wheeler EV,MG ZS EV,7719151.29,2,1218200.56,Corporate,UPI,2023,3,1
+2023-03-13,East,Patna,Commercial EV,Electric Auto,5492222.14,5,911003.27,Corporate,Cash,2023,3,1
+2023-03-14,East,Kolkata,4-Wheeler EV,Tata Nexon EV,4956540.94,2,439458.58,Corporate,Cash,2023,3,1
+2023-03-15,South,Chennai,4-Wheeler EV,Mahindra XUV400,14081446.39,4,1478480.69,Individual,UPI,2023,3,1
+2023-03-16,East,Patna,Commercial EV,Electric Truck,1258113.42,1,171287.97,Individual,Cash,2023,3,1
+2023-03-16,West,Pune,4-Wheeler EV,MG ZS EV,11830687.3,5,2048128.22,Fleet,Loan,2023,3,1
+2023-03-17,West,Pune,Commercial EV,Electric Truck,4385544.62,3,611868.44,Individual,Lease,2023,3,1
+2023-03-17,East,Patna,Commercial EV,Electric Auto,8400241.49,4,1424774.01,Corporate,Cash,2023,3,1
+2023-03-17,East,Bhubaneswar,4-Wheeler EV,Tata Nexon EV,16228852.39,3,2182450.75,Fleet,Cash,2023,3,1
+2023-03-17,East,Bhubaneswar,Commercial EV,Electric Truck,8815211.93,5,1266975.03,Fleet,Loan,2023,3,1
+2023-03-19,West,Pune,Commercial EV,Electric Auto,8027972.65,4,1142792.52,Corporate,Lease,2023,3,1
+2023-03-19,West,Ahmedabad,4-Wheeler EV,MG ZS EV,18268627.49,4,2983901.26,Corporate,Loan,2023,3,1
+2023-03-20,East,Kolkata,2-Wheeler EV,Ola S1,1106722.72,3,183705.18,Fleet,UPI,2023,3,1
+2023-03-22,North,Chandigarh,2-Wheeler EV,TVS iQube,928613.15,3,136651.54,Individual,Lease,2023,3,1
+2023-03-26,North,Chandigarh,4-Wheeler EV,Tata Nexon EV,6613942.25,2,1143393.65,Corporate,Lease,2023,3,1
+2023-03-27,North,Delhi,4-Wheeler EV,Mahindra XUV400,16272366.56,3,1670175.2,Corporate,Lease,2023,3,1
+2023-03-28,North,Chandigarh,Commercial EV,Electric Truck,3234847.46,3,324337.52,Individual,UPI,2023,3,1
+2023-03-28,South,Hyderabad,4-Wheeler EV,Mahindra XUV400,7562411.62,2,1049641.02,Corporate,UPI,2023,3,1
+2023-03-29,South,Bangalore,2-Wheeler EV,Ather 450X,293384.27,1,23683.18,Fleet,Lease,2023,3,1
+2023-03-31,South,Bangalore,4-Wheeler EV,MG ZS EV,18105641.88,4,2007877.34,Fleet,UPI,2023,3,1
+2023-04-01,North,Chandigarh,Commercial EV,Electric Truck,1886070.98,2,236303.83,Individual,Cash,2023,4,2
+2023-04-01,North,Lucknow,Commercial EV,Electric Auto,2677199.79,2,246884.73,Individual,Cash,2023,4,2
+2023-04-01,East,Bhubaneswar,4-Wheeler EV,Tata Nexon EV,14975024.31,3,1938866.52,Individual,Loan,2023,4,2
+2023-04-02,West,Ahmedabad,2-Wheeler EV,Ather 450X,1094508.23,3,160637.18,Corporate,Loan,2023,4,2
+2023-04-02,East,Patna,2-Wheeler EV,Ather 450X,934364.08,4,88668.05,Fleet,Cash,2023,4,2
+2023-04-03,North,Delhi,4-Wheeler EV,MG ZS EV,23486461.84,5,3517928.01,Fleet,Cash,2023,4,2
+2023-04-03,West,Mumbai,4-Wheeler EV,Mahindra XUV400,10778581.53,3,1469608.4,Fleet,Loan,2023,4,2
+2023-04-05,South,Hyderabad,2-Wheeler EV,TVS iQube,1092271.63,4,188672.9,Individual,Lease,2023,4,2
+2023-04-06,West,Ahmedabad,4-Wheeler EV,Tata Nexon EV,8650123.87,2,923772.16,Individual,Lease,2023,4,2
+2023-04-07,North,Lucknow,4-Wheeler EV,Mahindra XUV400,9180495.64,3,1303341.03,Individual,Lease,2023,4,2
+2023-04-09,East,Patna,4-Wheeler EV,Mahindra XUV400,18211880.53,4,2211923.93,Corporate,Cash,2023,4,2
+2023-04-09,North,Lucknow,4-Wheeler EV,MG ZS EV,20129081.55,5,2106357.17,Fleet,UPI,2023,4,2
+2023-04-10,South,Bangalore,4-Wheeler EV,Mahindra XUV400,10752951.23,3,912659.32,Fleet,Loan,2023,4,2
+2023-04-12,South,Bangalore,2-Wheeler EV,Ather 450X,776899.08,3,76212.85,Corporate,Cash,2023,4,2
+2023-04-12,North,Delhi,4-Wheeler EV,Mahindra XUV400,5296910.17,2,476442.55,Corporate,Lease,2023,4,2
+2023-04-14,West,Ahmedabad,Commercial EV,E-Rickshaw,11152876.39,5,1815897.75,Individual,UPI,2023,4,2
+2023-04-16,South,Hyderabad,4-Wheeler EV,Mahindra XUV400,2368952.25,1,230441.36,Corporate,Lease,2023,4,2
+2023-04-19,North,Lucknow,Commercial EV,Electric Truck,1878128.23,1,278480.26,Fleet,Loan,2023,4,2
+2023-04-20,West,Ahmedabad,4-Wheeler EV,MG ZS EV,12103419.36,4,1849536.95,Corporate,Cash,2023,4,2
+2023-04-21,North,Chandigarh,2-Wheeler EV,TVS iQube,410198.79,1,53886.28,Individual,UPI,2023,4,2
+2023-04-21,East,Bhubaneswar,4-Wheeler EV,Mahindra XUV400,13965694.01,4,1609459.34,Fleet,Cash,2023,4,2
+2023-04-21,West,Pune,4-Wheeler EV,Tata Nexon EV,14933738.86,5,1675610.05,Individual,UPI,2023,4,2
+2023-04-21,East,Patna,4-Wheeler EV,Tata Nexon EV,5736512.59,2,522604.59,Fleet,Lease,2023,4,2
+2023-04-22,South,Bangalore,Commercial EV,Electric Truck,6286878.17,3,1119177.65,Individual,Lease,2023,4,2
+2023-04-23,East,Bhubaneswar,4-Wheeler EV,Tata Nexon EV,14202623.06,5,2416827.3,Fleet,Cash,2023,4,2
+2023-04-23,West,Mumbai,2-Wheeler EV,Ola S1,1952061.53,5,283824.44,Fleet,Cash,2023,4,2
+2023-04-27,North,Chandigarh,Commercial EV,Electric Truck,6148056.31,4,550986.9,Individual,Lease,2023,4,2
+2023-04-27,East,Kolkata,Commercial EV,Electric Truck,4306705.0,3,380697.91,Corporate,Loan,2023,4,2
+2023-04-28,East,Patna,4-Wheeler EV,Tata Nexon EV,25599542.11,5,2492922.76,Corporate,Lease,2023,4,2
+2023-04-29,East,Bhubaneswar,4-Wheeler EV,Mahindra XUV400,5290518.81,2,462499.09,Corporate,UPI,2023,4,2
+2023-04-29,East,Patna,Commercial EV,Electric Truck,1836672.48,1,313702.56,Fleet,Loan,2023,4,2
+2023-04-29,West,Pune,4-Wheeler EV,MG ZS EV,19165782.55,4,2716115.9,Fleet,Cash,2023,4,2
+2023-04-30,North,Lucknow,2-Wheeler EV,Ola S1,902935.41,4,150762.54,Fleet,Lease,2023,4,2
+2023-04-30,West,Pune,4-Wheeler EV,Mahindra XUV400,6309728.89,2,802360.89,Corporate,UPI,2023,4,2
+2023-05-01,West,Ahmedabad,Commercial EV,Electric Auto,4103942.5,5,475184.14,Fleet,UPI,2023,5,2
+2023-05-01,East,Kolkata,2-Wheeler EV,TVS iQube,566567.8,2,68642.61,Fleet,Cash,2023,5,2
+2023-05-01,East,Bhubaneswar,2-Wheeler EV,Ola S1,226945.68,1,21220.85,Individual,Loan,2023,5,2
+2023-05-03,West,Mumbai,4-Wheeler EV,MG ZS EV,5201624.8,2,534636.19,Corporate,Loan,2023,5,2
+2023-05-04,South,Hyderabad,2-Wheeler EV,Ather 450X,292250.69,1,51289.37,Fleet,Lease,2023,5,2
+2023-05-06,South,Bangalore,4-Wheeler EV,Tata Nexon EV,2295380.35,1,374924.04,Fleet,Loan,2023,5,2
+2023-05-07,South,Chennai,2-Wheeler EV,TVS iQube,1639503.4,5,213396.3,Fleet,Cash,2023,5,2
+2023-05-10,East,Kolkata,2-Wheeler EV,Ather 450X,294893.18,1,45242.11,Corporate,Lease,2023,5,2
+2023-05-11,East,Patna,2-Wheeler EV,Ola S1,2020118.28,5,260989.98,Corporate,Loan,2023,5,2
+2023-05-16,South,Chennai,4-Wheeler EV,Mahindra XUV400,17470728.6,5,2274078.69,Fleet,Lease,2023,5,2
+2023-05-17,West,Pune,Commercial EV,Electric Auto,3071826.86,5,416805.13,Fleet,Loan,2023,5,2
+2023-05-19,North,Chandigarh,Commercial EV,Electric Auto,6170275.32,4,1105057.6,Fleet,Loan,2023,5,2
+2023-05-21,North,Lucknow,Commercial EV,E-Rickshaw,5563472.38,5,580083.75,Corporate,Lease,2023,5,2
+2023-05-21,North,Chandigarh,4-Wheeler EV,Tata Nexon EV,13253807.92,4,1360805.34,Fleet,Loan,2023,5,2
+2023-05-23,West,Mumbai,Commercial EV,Electric Auto,2720568.29,2,463210.84,Individual,UPI,2023,5,2
+2023-05-24,West,Mumbai,Commercial EV,E-Rickshaw,4271418.68,3,569901.34,Individual,UPI,2023,5,2
+2023-05-27,West,Mumbai,4-Wheeler EV,Tata Nexon EV,24756639.84,5,3534111.4,Fleet,Lease,2023,5,2
+2023-05-28,South,Hyderabad,2-Wheeler EV,Ather 450X,1032603.73,4,184281.62,Individual,Cash,2023,5,2
+2023-05-30,West,Pune,2-Wheeler EV,Ola S1,1534428.76,4,181197.82,Individual,Cash,2023,5,2
+2023-06-01,West,Pune,2-Wheeler EV,Ola S1,602541.37,3,70222.26,Corporate,Cash,2023,6,2
+2023-06-01,East,Patna,2-Wheeler EV,Ola S1,1496644.72,4,237969.86,Fleet,Lease,2023,6,2
+2023-06-05,South,Chennai,Commercial EV,E-Rickshaw,1900987.68,1,194051.57,Corporate,UPI,2023,6,2
+2023-06-06,South,Chennai,Commercial EV,Electric Auto,6968164.48,5,1046443.98,Individual,Loan,2023,6,2
+2023-06-07,North,Lucknow,Commercial EV,Electric Truck,7986411.72,4,1022578.73,Corporate,Cash,2023,6,2
+2023-06-07,West,Pune,4-Wheeler EV,Mahindra XUV400,4035447.02,1,618273.04,Individual,Lease,2023,6,2
+2023-06-08,North,Chandigarh,4-Wheeler EV,Tata Nexon EV,13925334.83,3,1358238.64,Fleet,UPI,2023,6,2
+2023-06-10,North,Chandigarh,Commercial EV,Electric Auto,6354091.47,5,896457.22,Corporate,Loan,2023,6,2
+2023-06-10,East,Patna,2-Wheeler EV,Ola S1,718794.65,3,74256.17,Fleet,Loan,2023,6,2
+2023-06-11,South,Hyderabad,4-Wheeler EV,Mahindra XUV400,6263992.74,2,975791.38,Corporate,Cash,2023,6,2
+2023-06-14,South,Chennai,Commercial EV,Electric Auto,4997192.09,3,585609.82,Corporate,Lease,2023,6,2
+2023-06-14,East,Kolkata,Commercial EV,Electric Truck,1329888.01,1,215205.5,Fleet,UPI,2023,6,2
+2023-06-16,South,Bangalore,Commercial EV,Electric Truck,1629870.85,1,134643.29,Fleet,Loan,2023,6,2
+2023-06-21,West,Pune,Commercial EV,E-Rickshaw,5377386.26,5,918698.78,Individual,Cash,2023,6,2
+2023-06-24,East,Kolkata,2-Wheeler EV,Ather 450X,1854701.87,5,295910.41,Individual,Loan,2023,6,2
+2023-06-26,South,Bangalore,4-Wheeler EV,Tata Nexon EV,18448831.89,5,2540559.75,Corporate,Loan,2023,6,2
+2023-06-26,West,Pune,2-Wheeler EV,Ather 450X,1351127.9,5,205870.07,Individual,Cash,2023,6,2
+2023-06-27,South,Hyderabad,Commercial EV,E-Rickshaw,1328893.55,2,162481.02,Fleet,Cash,2023,6,2
+2023-06-27,South,Bangalore,4-Wheeler EV,MG ZS EV,13532657.36,3,1248908.26,Individual,Lease,2023,6,2
+2023-07-02,East,Patna,Commercial EV,Electric Auto,5755530.54,4,861050.25,Fleet,UPI,2023,7,3
+2023-07-04,South,Bangalore,Commercial EV,E-Rickshaw,6815254.54,5,1125635.83,Individual,Loan,2023,7,3
+2023-07-05,South,Hyderabad,4-Wheeler EV,MG ZS EV,25348992.77,5,4010354.95,Individual,UPI,2023,7,3
+2023-07-05,South,Hyderabad,4-Wheeler EV,Tata Nexon EV,17291720.72,3,2069776.94,Corporate,Cash,2023,7,3
+2023-07-06,West,Ahmedabad,2-Wheeler EV,Ola S1,241206.12,1,20586.97,Individual,Loan,2023,7,3
+2023-07-07,East,Patna,Commercial EV,Electric Truck,2592152.91,3,265497.26,Corporate,Cash,2023,7,3
+2023-07-07,South,Chennai,Commercial EV,E-Rickshaw,1196864.07,2,170079.15,Fleet,Loan,2023,7,3
+2023-07-09,East,Patna,2-Wheeler EV,Ather 450X,260497.3,1,27809.1,Fleet,Loan,2023,7,3
+2023-07-10,East,Bhubaneswar,2-Wheeler EV,Ather 450X,870979.65,3,88283.99,Corporate,UPI,2023,7,3
+2023-07-12,West,Mumbai,Commercial EV,E-Rickshaw,1453970.53,1,258413.89,Corporate,Cash,2023,7,3
+2023-07-13,South,Bangalore,Commercial EV,Electric Truck,1511018.68,1,257128.89,Individual,Loan,2023,7,3
+2023-07-13,East,Kolkata,2-Wheeler EV,Ola S1,699999.78,2,102253.23,Corporate,Cash,2023,7,3
+2023-07-15,South,Chennai,4-Wheeler EV,MG ZS EV,14174792.49,4,1309356.18,Individual,Loan,2023,7,3
+2023-07-17,South,Chennai,2-Wheeler EV,Ather 450X,1230714.72,5,158392.65,Corporate,Cash,2023,7,3
+2023-07-18,West,Pune,4-Wheeler EV,Mahindra XUV400,7698245.76,2,1065939.21,Fleet,Loan,2023,7,3
+2023-07-18,South,Chennai,4-Wheeler EV,Mahindra XUV400,20661728.4,5,1700462.82,Corporate,Lease,2023,7,3
+2023-07-18,North,Chandigarh,4-Wheeler EV,MG ZS EV,4278933.09,1,670602.12,Fleet,Loan,2023,7,3
+2023-07-20,West,Pune,4-Wheeler EV,MG ZS EV,7551840.47,2,1030859.02,Individual,Lease,2023,7,3
+2023-07-26,West,Pune,2-Wheeler EV,Ather 450X,1681526.76,5,180975.86,Fleet,UPI,2023,7,3
+2023-07-27,West,Ahmedabad,4-Wheeler EV,Tata Nexon EV,13060794.04,3,2317449.31,Individual,UPI,2023,7,3
+2023-07-29,South,Bangalore,4-Wheeler EV,MG ZS EV,13499600.77,4,1609971.44,Corporate,Cash,2023,7,3
+2023-08-01,West,Ahmedabad,Commercial EV,E-Rickshaw,1098537.32,1,134925.94,Fleet,UPI,2023,8,3
+2023-08-01,North,Chandigarh,4-Wheeler EV,Tata Nexon EV,5709475.81,2,689751.57,Corporate,Loan,2023,8,3
+2023-08-02,East,Kolkata,2-Wheeler EV,Ather 450X,409781.2,2,52276.22,Corporate,Lease,2023,8,3
+2023-08-02,South,Chennai,4-Wheeler EV,MG ZS EV,12192667.34,4,1028871.72,Fleet,UPI,2023,8,3
+2023-08-03,West,Pune,Commercial EV,E-Rickshaw,1140809.5,1,172526.01,Individual,Cash,2023,8,3
+2023-08-04,East,Kolkata,Commercial EV,E-Rickshaw,5061568.08,3,513079.18,Corporate,Lease,2023,8,3
+2023-08-04,South,Bangalore,4-Wheeler EV,Mahindra XUV400,4965418.81,1,530668.44,Fleet,UPI,2023,8,3
+2023-08-06,South,Chennai,Commercial EV,E-Rickshaw,1787581.93,2,159660.75,Corporate,Loan,2023,8,3
+2023-08-10,West,Ahmedabad,Commercial EV,E-Rickshaw,4736892.23,3,610587.87,Corporate,Loan,2023,8,3
+2023-08-11,East,Bhubaneswar,2-Wheeler EV,Ola S1,1010729.39,3,95330.19,Fleet,Cash,2023,8,3
+2023-08-12,West,Ahmedabad,Commercial EV,Electric Auto,2416179.46,3,307223.26,Individual,Lease,2023,8,3
+2023-08-12,North,Delhi,4-Wheeler EV,MG ZS EV,18435344.53,4,2186536.72,Corporate,UPI,2023,8,3
+2023-08-14,North,Delhi,2-Wheeler EV,TVS iQube,504951.22,2,86456.86,Corporate,Lease,2023,8,3
+2023-08-14,West,Mumbai,2-Wheeler EV,Ather 450X,300613.09,1,48394.6,Individual,Lease,2023,8,3
+2023-08-15,South,Hyderabad,2-Wheeler EV,Ola S1,1212833.24,5,195981.09,Fleet,Loan,2023,8,3
+2023-08-15,North,Delhi,4-Wheeler EV,MG ZS EV,21922385.46,4,2246048.25,Corporate,Cash,2023,8,3
+2023-08-16,East,Bhubaneswar,2-Wheeler EV,Ather 450X,254824.98,1,32541.25,Corporate,Lease,2023,8,3
+2023-08-16,West,Mumbai,4-Wheeler EV,Tata Nexon EV,10076551.9,2,1604477.9,Fleet,Lease,2023,8,3
+2023-08-17,East,Patna,4-Wheeler EV,Mahindra XUV400,14921243.5,3,2490196.7,Corporate,Lease,2023,8,3
+2023-08-17,East,Bhubaneswar,2-Wheeler EV,TVS iQube,866432.66,3,89899.98,Individual,Lease,2023,8,3
+2023-08-17,North,Lucknow,Commercial EV,E-Rickshaw,2790838.26,5,272490.4,Individual,UPI,2023,8,3
+2023-08-17,South,Bangalore,Commercial EV,Electric Auto,6916198.51,4,1019114.88,Fleet,Loan,2023,8,3
+2023-08-18,South,Bangalore,2-Wheeler EV,Ather 450X,1784850.73,5,204653.83,Corporate,Cash,2023,8,3
+2023-08-19,East,Kolkata,2-Wheeler EV,Ather 450X,863310.55,3,143606.19,Individual,UPI,2023,8,3
+2023-08-20,South,Chennai,4-Wheeler EV,Mahindra XUV400,22030290.17,5,1846728.54,Fleet,Lease,2023,8,3
+2023-08-27,South,Bangalore,4-Wheeler EV,MG ZS EV,9913056.75,2,1600993.12,Corporate,Loan,2023,8,3
+2023-08-29,South,Bangalore,Commercial EV,E-Rickshaw,6153688.89,4,857961.07,Corporate,Lease,2023,8,3
+2023-08-29,East,Patna,2-Wheeler EV,Ola S1,811441.25,3,125510.93,Corporate,Cash,2023,8,3
+2023-08-30,East,Kolkata,Commercial EV,Electric Auto,1276987.86,2,216082.76,Fleet,Loan,2023,8,3
+2023-08-30,East,Bhubaneswar,Commercial EV,E-Rickshaw,5992160.87,4,495980.36,Fleet,Lease,2023,8,3
+2023-09-01,North,Lucknow,4-Wheeler EV,MG ZS EV,20312174.42,4,2437936.27,Fleet,Lease,2023,9,3
+2023-09-02,North,Lucknow,4-Wheeler EV,Tata Nexon EV,12452370.39,5,2037787.33,Corporate,Loan,2023,9,3
+2023-09-03,West,Ahmedabad,4-Wheeler EV,Mahindra XUV400,14256317.44,4,2454997.48,Individual,Cash,2023,9,3
+2023-09-07,East,Bhubaneswar,4-Wheeler EV,MG ZS EV,5237800.55,1,765067.64,Corporate,Cash,2023,9,3
+2023-09-09,East,Patna,4-Wheeler EV,MG ZS EV,4389087.52,1,668939.37,Fleet,Cash,2023,9,3
+2023-09-10,East,Kolkata,2-Wheeler EV,Ola S1,440794.89,1,39434.17,Individual,Loan,2023,9,3
+2023-09-10,North,Chandigarh,Commercial EV,E-Rickshaw,7262389.0,5,738096.92,Individual,Cash,2023,9,3
+2023-09-12,East,Bhubaneswar,Commercial EV,Electric Truck,2488459.25,3,393933.74,Individual,Loan,2023,9,3
+2023-09-13,South,Bangalore,2-Wheeler EV,TVS iQube,647206.46,3,85684.27,Fleet,Loan,2023,9,3
+2023-09-21,South,Chennai,2-Wheeler EV,Ather 450X,857649.74,4,149772.75,Corporate,Lease,2023,9,3
+2023-09-22,West,Mumbai,4-Wheeler EV,Tata Nexon EV,24965544.5,5,3768276.49,Corporate,Lease,2023,9,3
+2023-09-23,West,Mumbai,4-Wheeler EV,Mahindra XUV400,20928706.4,5,3314043.33,Corporate,UPI,2023,9,3
+2023-09-24,East,Patna,4-Wheeler EV,Tata Nexon EV,17047453.71,5,1632585.72,Corporate,Lease,2023,9,3
+2023-09-24,West,Pune,Commercial EV,Electric Truck,3844770.37,3,452932.76,Corporate,Cash,2023,9,3
+2023-09-24,North,Chandigarh,2-Wheeler EV,Ola S1,376536.59,1,64605.78,Corporate,UPI,2023,9,3
+2023-09-24,South,Bangalore,2-Wheeler EV,Ola S1,1373007.26,4,162035.8,Fleet,Cash,2023,9,3
+2023-09-25,West,Mumbai,Commercial EV,Electric Auto,1069630.06,1,107657.41,Corporate,Loan,2023,9,3
+2023-09-25,East,Bhubaneswar,2-Wheeler EV,TVS iQube,1065215.26,5,173368.63,Corporate,Loan,2023,9,3
+2023-09-26,East,Patna,4-Wheeler EV,Tata Nexon EV,8695161.05,2,1258100.68,Fleet,UPI,2023,9,3
+2023-09-26,South,Hyderabad,2-Wheeler EV,Ola S1,795876.51,2,139274.95,Fleet,UPI,2023,9,3
+2023-09-26,West,Ahmedabad,2-Wheeler EV,Ather 450X,906810.85,3,95583.87,Corporate,Cash,2023,9,3
+2023-09-28,East,Bhubaneswar,4-Wheeler EV,Tata Nexon EV,8883616.59,2,1390015.89,Individual,Loan,2023,9,3
+2023-09-28,South,Chennai,Commercial EV,E-Rickshaw,5619810.04,4,645281.22,Corporate,Lease,2023,9,3
+2023-09-29,North,Lucknow,Commercial EV,Electric Truck,2607624.3,2,400848.93,Fleet,Cash,2023,9,3
+2023-09-30,North,Delhi,4-Wheeler EV,Tata Nexon EV,6856671.18,2,1055148.66,Fleet,Loan,2023,9,3
+2023-09-30,North,Lucknow,Commercial EV,Electric Auto,4619757.81,4,431908.94,Corporate,UPI,2023,9,3
+2023-10-01,South,Hyderabad,4-Wheeler EV,Mahindra XUV400,2899108.44,1,293756.81,Individual,Cash,2023,10,4
+2023-10-02,North,Chandigarh,4-Wheeler EV,MG ZS EV,4700777.86,1,464070.58,Corporate,UPI,2023,10,4
+2023-10-02,East,Patna,2-Wheeler EV,Ather 450X,869693.19,2,123732.91,Individual,UPI,2023,10,4
+2023-10-03,West,Pune,2-Wheeler EV,Ather 450X,1278988.1,4,124884.67,Fleet,UPI,2023,10,4
+2023-10-04,East,Patna,Commercial EV,Electric Auto,6404164.37,4,1070605.84,Fleet,UPI,2023,10,4
+2023-10-05,East,Bhubaneswar,4-Wheeler EV,Mahindra XUV400,3588551.28,1,528880.28,Corporate,UPI,2023,10,4
+2023-10-08,South,Bangalore,Commercial EV,Electric Auto,7684920.13,5,659877.82,Fleet,UPI,2023,10,4
+2023-10-10,East,Kolkata,4-Wheeler EV,Tata Nexon EV,4465056.2,1,575128.32,Fleet,Cash,2023,10,4
+2023-10-10,South,Chennai,2-Wheeler EV,Ola S1,681730.5,3,116770.45,Individual,Loan,2023,10,4
+2023-10-13,South,Bangalore,2-Wheeler EV,Ola S1,977132.77,3,127743.45,Corporate,Cash,2023,10,4
+2023-10-13,West,Pune,4-Wheeler EV,MG ZS EV,7147871.12,2,902641.51,Corporate,Loan,2023,10,4
+2023-10-14,East,Kolkata,4-Wheeler EV,MG ZS EV,13280134.73,3,2053241.59,Fleet,UPI,2023,10,4
+2023-10-20,West,Ahmedabad,2-Wheeler EV,TVS iQube,593138.02,2,50197.76,Individual,Lease,2023,10,4
+2023-10-20,North,Delhi,Commercial EV,Electric Truck,6750676.05,4,873549.62,Individual,Loan,2023,10,4
+2023-10-21,North,Delhi,4-Wheeler EV,MG ZS EV,5549430.76,2,926492.18,Fleet,Loan,2023,10,4
+2023-10-22,North,Delhi,2-Wheeler EV,TVS iQube,1017832.2,5,92545.73,Corporate,Cash,2023,10,4
+2023-10-23,East,Patna,4-Wheeler EV,Tata Nexon EV,18777881.32,4,1639334.76,Fleet,Lease,2023,10,4
+2023-10-23,South,Bangalore,Commercial EV,E-Rickshaw,5625583.75,4,526761.53,Fleet,Lease,2023,10,4
+2023-10-25,West,Ahmedabad,Commercial EV,Electric Truck,5935387.12,4,1050682.97,Corporate,Lease,2023,10,4
+2023-10-26,East,Bhubaneswar,2-Wheeler EV,TVS iQube,1088962.97,4,102914.41,Fleet,UPI,2023,10,4
+2023-10-27,North,Chandigarh,2-Wheeler EV,TVS iQube,1246869.54,4,117110.6,Fleet,UPI,2023,10,4
+2023-10-27,West,Mumbai,2-Wheeler EV,Ola S1,1635838.04,4,266397.3,Corporate,Cash,2023,10,4
+2023-10-28,West,Pune,2-Wheeler EV,Ather 450X,1394721.79,5,236410.32,Individual,Lease,2023,10,4
+2023-10-31,South,Chennai,4-Wheeler EV,Mahindra XUV400,8588461.53,2,1461539.19,Individual,Cash,2023,10,4
+2023-11-01,West,Mumbai,2-Wheeler EV,Ola S1,722308.98,3,100790.64,Fleet,Lease,2023,11,4
+2023-11-03,North,Lucknow,4-Wheeler EV,Tata Nexon EV,3756005.84,1,310905.16,Corporate,Lease,2023,11,4
+2023-11-05,South,Hyderabad,Commercial EV,Electric Auto,1749720.32,1,178059.93,Corporate,Lease,2023,11,4
+2023-11-05,North,Chandigarh,4-Wheeler EV,Mahindra XUV400,2465848.37,1,371736.48,Fleet,Lease,2023,11,4
+2023-11-06,South,Hyderabad,4-Wheeler EV,Mahindra XUV400,3495918.15,1,416144.76,Corporate,Lease,2023,11,4
+2023-11-07,North,Delhi,4-Wheeler EV,Tata Nexon EV,3463663.38,1,463307.72,Individual,UPI,2023,11,4
+2023-11-08,North,Chandigarh,Commercial EV,Electric Truck,5651525.57,3,783147.08,Corporate,Cash,2023,11,4
+2023-11-08,South,Bangalore,2-Wheeler EV,Ather 450X,1033965.56,3,157147.66,Individual,UPI,2023,11,4
+2023-11-09,West,Pune,Commercial EV,Electric Auto,3087882.1,3,376282.67,Corporate,Lease,2023,11,4
+2023-11-11,East,Bhubaneswar,4-Wheeler EV,Mahindra XUV400,21638518.54,4,2344890.62,Individual,Loan,2023,11,4
+2023-11-12,West,Ahmedabad,4-Wheeler EV,Tata Nexon EV,11381533.68,3,1391442.54,Corporate,Loan,2023,11,4
+2023-11-13,West,Pune,2-Wheeler EV,Ather 450X,1007609.56,3,88148.45,Individual,Cash,2023,11,4
+2023-11-17,East,Patna,2-Wheeler EV,TVS iQube,1320187.62,5,224178.77,Fleet,Loan,2023,11,4
+2023-11-18,South,Hyderabad,Commercial EV,E-Rickshaw,2158108.72,3,334748.16,Fleet,Lease,2023,11,4
+2023-11-19,North,Lucknow,4-Wheeler EV,Tata Nexon EV,16504852.06,3,2260725.51,Corporate,Cash,2023,11,4
+2023-11-19,North,Lucknow,4-Wheeler EV,MG ZS EV,4581348.92,1,381521.25,Corporate,Lease,2023,11,4
+2023-11-23,East,Patna,Commercial EV,Electric Auto,5321764.94,3,555063.87,Fleet,Cash,2023,11,4
+2023-11-23,East,Patna,Commercial EV,Electric Auto,3864523.79,5,376167.88,Fleet,UPI,2023,11,4
+2023-11-25,West,Pune,2-Wheeler EV,Ola S1,741514.79,3,130200.73,Fleet,Lease,2023,11,4
+2023-11-26,North,Lucknow,2-Wheeler EV,TVS iQube,795221.82,2,118914.13,Fleet,Lease,2023,11,4
+2023-11-30,South,Hyderabad,4-Wheeler EV,Mahindra XUV400,7994913.38,3,908839.96,Corporate,Cash,2023,11,4
+2023-12-03,East,Bhubaneswar,4-Wheeler EV,MG ZS EV,9907717.88,2,1066627.21,Corporate,Cash,2023,12,4
+2023-12-04,South,Hyderabad,4-Wheeler EV,Mahindra XUV400,14643100.38,4,1893618.66,Corporate,UPI,2023,12,4
+2023-12-07,West,Mumbai,4-Wheeler EV,Tata Nexon EV,6837513.69,2,1116327.9,Individual,UPI,2023,12,4
+2023-12-07,West,Ahmedabad,4-Wheeler EV,Tata Nexon EV,15207460.26,4,2269292.26,Corporate,Cash,2023,12,4
+2023-12-09,North,Chandigarh,2-Wheeler EV,Ather 450X,1469592.97,4,196735.67,Fleet,UPI,2023,12,4
+2023-12-10,North,Lucknow,2-Wheeler EV,Ola S1,639363.45,2,54822.61,Individual,Cash,2023,12,4
+2023-12-10,East,Patna,Commercial EV,Electric Truck,2153077.34,1,267136.27,Corporate,Loan,2023,12,4
+2023-12-12,West,Mumbai,Commercial EV,Electric Auto,8127805.28,5,714173.0,Corporate,Loan,2023,12,4
+2023-12-13,North,Lucknow,4-Wheeler EV,Mahindra XUV400,25131394.91,5,2308121.79,Fleet,Cash,2023,12,4
+2023-12-14,North,Lucknow,2-Wheeler EV,Ather 450X,230543.24,1,37921.05,Fleet,Lease,2023,12,4
+2023-12-14,South,Hyderabad,4-Wheeler EV,Mahindra XUV400,13121202.83,4,1932002.05,Corporate,UPI,2023,12,4
+2023-12-17,North,Lucknow,2-Wheeler EV,TVS iQube,923175.07,3,163453.93,Fleet,Loan,2023,12,4
+2023-12-17,South,Chennai,2-Wheeler EV,Ola S1,1242500.83,3,161528.5,Individual,UPI,2023,12,4
+2023-12-18,West,Pune,Commercial EV,Electric Truck,6989733.79,4,1015362.81,Individual,UPI,2023,12,4
+2023-12-19,North,Delhi,Commercial EV,Electric Truck,2962060.21,2,271840.64,Fleet,Cash,2023,12,4
+2023-12-23,West,Pune,4-Wheeler EV,Mahindra XUV400,7257175.12,3,621515.54,Individual,Cash,2023,12,4
+2023-12-23,South,Hyderabad,4-Wheeler EV,Tata Nexon EV,4866062.06,1,399813.77,Individual,Lease,2023,12,4
+2023-12-24,South,Hyderabad,Commercial EV,Electric Truck,1340726.9,1,210630.81,Corporate,UPI,2023,12,4
+2024-01-02,West,Ahmedabad,2-Wheeler EV,Ola S1,2360379.52,5,207844.1,Individual,Lease,2024,1,1
+2024-01-03,West,Mumbai,2-Wheeler EV,Ather 450X,2161067.16,5,193333.71,Corporate,Cash,2024,1,1
+2024-01-03,South,Bangalore,Commercial EV,Electric Auto,1848792.41,1,195766.51,Individual,Loan,2024,1,1
+2024-01-05,East,Bhubaneswar,Commercial EV,E-Rickshaw,2804254.61,1,406493.33,Corporate,Cash,2024,1,1
+2024-01-06,East,Bhubaneswar,Commercial EV,Electric Truck,4336139.88,4,530069.65,Fleet,Lease,2024,1,1
+2024-01-06,West,Mumbai,Commercial EV,Electric Auto,10539838.21,5,1590404.05,Individual,Lease,2024,1,1
+2024-01-09,East,Kolkata,2-Wheeler EV,Ola S1,585523.9,1,104892.46,Fleet,UPI,2024,1,1
+2024-01-10,East,Bhubaneswar,4-Wheeler EV,MG ZS EV,4307173.12,1,685514.85,Fleet,Loan,2024,1,1
+2024-01-11,North,Lucknow,Commercial EV,Electric Truck,7013886.82,5,1200762.44,Corporate,UPI,2024,1,1
+2024-01-13,North,Delhi,Commercial EV,E-Rickshaw,1894739.01,1,327002.65,Corporate,Cash,2024,1,1
+2024-01-14,West,Ahmedabad,4-Wheeler EV,MG ZS EV,4610276.33,1,594227.57,Fleet,Cash,2024,1,1
+2024-01-14,North,Chandigarh,2-Wheeler EV,TVS iQube,1119805.09,3,177011.47,Corporate,Cash,2024,1,1
+2024-01-14,West,Mumbai,4-Wheeler EV,Tata Nexon EV,10535504.24,2,1391079.77,Individual,UPI,2024,1,1
+2024-01-14,West,Ahmedabad,2-Wheeler EV,Ola S1,412519.09,1,64094.09,Fleet,Cash,2024,1,1
+2024-01-15,South,Chennai,4-Wheeler EV,Tata Nexon EV,19615813.11,3,1865040.58,Fleet,Cash,2024,1,1
+2024-01-15,South,Bangalore,2-Wheeler EV,Ather 450X,1475400.85,3,210460.52,Corporate,UPI,2024,1,1
+2024-01-21,South,Chennai,4-Wheeler EV,Mahindra XUV400,34036948.88,5,5060967.42,Corporate,Lease,2024,1,1
+2024-01-23,North,Delhi,4-Wheeler EV,Mahindra XUV400,9548886.74,2,1655507.32,Corporate,Cash,2024,1,1
+2024-01-25,North,Chandigarh,2-Wheeler EV,Ather 450X,2219097.81,4,383555.44,Corporate,Loan,2024,1,1
+2024-01-25,East,Patna,4-Wheeler EV,MG ZS EV,39056190.26,5,5590413.16,Individual,Loan,2024,1,1
+2024-01-26,North,Lucknow,4-Wheeler EV,Tata Nexon EV,24990506.35,5,3845401.4,Corporate,Loan,2024,1,1
+2024-01-27,West,Mumbai,Commercial EV,Electric Auto,4641658.02,3,623649.57,Individual,Cash,2024,1,1
+2024-01-28,West,Mumbai,4-Wheeler EV,Mahindra XUV400,9313132.23,2,902399.58,Fleet,Cash,2024,1,1
+2024-01-29,North,Lucknow,Commercial EV,E-Rickshaw,3942797.96,2,389624.86,Corporate,Cash,2024,1,1
+2024-02-01,East,Patna,Commercial EV,Electric Auto,5133592.16,2,714176.09,Individual,Loan,2024,2,1
+2024-02-02,West,Ahmedabad,Commercial EV,Electric Truck,7884509.84,4,1196092.23,Individual,Lease,2024,2,1
+2024-02-03,East,Kolkata,2-Wheeler EV,Ather 450X,2663210.98,5,238037.13,Corporate,Lease,2024,2,1
+2024-02-03,West,Ahmedabad,Commercial EV,E-Rickshaw,9066047.0,5,976726.22,Corporate,UPI,2024,2,1
+2024-02-04,East,Bhubaneswar,2-Wheeler EV,TVS iQube,744829.78,2,90290.29,Corporate,Cash,2024,2,1
+2024-02-05,North,Chandigarh,Commercial EV,E-Rickshaw,2360118.91,1,286979.6,Individual,UPI,2024,2,1
+2024-02-06,North,Lucknow,Commercial EV,Electric Truck,3500174.63,3,290257.35,Individual,UPI,2024,2,1
+2024-02-07,East,Bhubaneswar,Commercial EV,Electric Truck,2059902.24,1,320819.46,Corporate,Loan,2024,2,1
+2024-02-07,South,Bangalore,Commercial EV,E-Rickshaw,5655628.86,4,650636.79,Corporate,Loan,2024,2,1
+2024-02-08,South,Chennai,4-Wheeler EV,Tata Nexon EV,18570919.11,5,2880297.37,Individual,Lease,2024,2,1
+2024-02-09,South,Bangalore,2-Wheeler EV,TVS iQube,1250932.47,2,176114.01,Corporate,Cash,2024,2,1
+2024-02-10,South,Hyderabad,2-Wheeler EV,Ola S1,1006449.93,2,92338.12,Individual,Loan,2024,2,1
+2024-02-12,South,Bangalore,Commercial EV,Electric Truck,6548283.94,5,965429.82,Fleet,UPI,2024,2,1
+2024-02-12,East,Patna,4-Wheeler EV,Tata Nexon EV,13403823.83,2,1476495.3,Fleet,UPI,2024,2,1
+2024-02-15,East,Kolkata,2-Wheeler EV,TVS iQube,676405.69,2,62373.1,Individual,Lease,2024,2,1
+2024-02-16,South,Hyderabad,4-Wheeler EV,Mahindra XUV400,6604631.6,1,1136884.08,Corporate,UPI,2024,2,1
+2024-02-17,South,Bangalore,4-Wheeler EV,MG ZS EV,24016182.37,5,3313121.66,Fleet,Cash,2024,2,1
+2024-02-17,East,Bhubaneswar,4-Wheeler EV,Tata Nexon EV,32462036.68,5,5687877.93,Corporate,Lease,2024,2,1
+2024-02-18,South,Chennai,2-Wheeler EV,Ather 450X,1884893.88,4,179625.62,Corporate,UPI,2024,2,1
+2024-02-18,East,Bhubaneswar,Commercial EV,Electric Truck,6044506.84,2,832577.99,Corporate,Lease,2024,2,1
+2024-02-18,North,Delhi,4-Wheeler EV,MG ZS EV,28034943.05,4,4161441.37,Fleet,UPI,2024,2,1
+2024-02-19,West,Mumbai,Commercial EV,E-Rickshaw,9084068.32,5,1008425.14,Fleet,UPI,2024,2,1
+2024-02-21,West,Ahmedabad,Commercial EV,Electric Truck,7590377.62,5,1036492.01,Fleet,Loan,2024,2,1
+2024-02-22,East,Bhubaneswar,4-Wheeler EV,Mahindra XUV400,23225494.77,3,2627891.87,Individual,Loan,2024,2,1
+2024-02-23,North,Delhi,2-Wheeler EV,Ola S1,846126.58,2,116518.87,Corporate,Cash,2024,2,1
+2024-02-23,East,Patna,Commercial EV,E-Rickshaw,4112787.95,2,604815.69,Corporate,UPI,2024,2,1
+2024-02-23,North,Lucknow,2-Wheeler EV,Ather 450X,1922832.95,4,264202.62,Fleet,Lease,2024,2,1
+2024-02-24,West,Pune,2-Wheeler EV,Ather 450X,1946782.35,4,318940.18,Fleet,Cash,2024,2,1
+2024-03-02,South,Chennai,4-Wheeler EV,Tata Nexon EV,8115856.78,1,1165485.99,Corporate,Loan,2024,3,1
+2024-03-03,East,Bhubaneswar,2-Wheeler EV,Ola S1,2166910.6,4,200525.51,Fleet,Lease,2024,3,1
+2024-03-03,South,Hyderabad,2-Wheeler EV,TVS iQube,1046744.83,2,97871.62,Individual,UPI,2024,3,1
+2024-03-04,West,Mumbai,4-Wheeler EV,Tata Nexon EV,11747962.83,2,1179736.18,Fleet,Loan,2024,3,1
+2024-03-04,South,Chennai,2-Wheeler EV,Ola S1,3131107.05,5,258732.21,Individual,Lease,2024,3,1
+2024-03-05,South,Hyderabad,2-Wheeler EV,Ather 450X,2671232.87,5,255092.96,Individual,Loan,2024,3,1
+2024-03-07,West,Mumbai,4-Wheeler EV,Tata Nexon EV,15696752.99,3,2716773.57,Fleet,Loan,2024,3,1
+2024-03-07,South,Hyderabad,Commercial EV,E-Rickshaw,7357270.45,3,643970.39,Individual,Cash,2024,3,1
+2024-03-09,West,Ahmedabad,Commercial EV,E-Rickshaw,2767198.16,1,496433.78,Fleet,UPI,2024,3,1
+2024-03-10,East,Bhubaneswar,Commercial EV,E-Rickshaw,1150017.16,1,124584.94,Fleet,UPI,2024,3,1
+2024-03-10,West,Ahmedabad,Commercial EV,E-Rickshaw,7987768.96,5,1429446.85,Fleet,Lease,2024,3,1
+2024-03-11,South,Bangalore,2-Wheeler EV,Ola S1,1376546.8,4,238289.33,Individual,UPI,2024,3,1
+2024-03-11,East,Bhubaneswar,2-Wheeler EV,TVS iQube,1733661.58,5,152853.5,Corporate,Lease,2024,3,1
+2024-03-12,West,Mumbai,2-Wheeler EV,Ola S1,2080543.14,5,226882.3,Fleet,Lease,2024,3,1
+2024-03-12,North,Chandigarh,4-Wheeler EV,Tata Nexon EV,24456490.12,4,3640396.18,Fleet,UPI,2024,3,1
+2024-03-13,East,Kolkata,4-Wheeler EV,Mahindra XUV400,5143658.08,1,571750.5,Corporate,Lease,2024,3,1
+2024-03-13,North,Delhi,4-Wheeler EV,Mahindra XUV400,11843811.91,2,2093933.33,Fleet,Cash,2024,3,1
+2024-03-14,West,Ahmedabad,4-Wheeler EV,Tata Nexon EV,17422259.13,3,1559140.1,Fleet,Cash,2024,3,1
+2024-03-16,North,Lucknow,Commercial EV,E-Rickshaw,1371892.27,1,141209.56,Individual,Lease,2024,3,1
+2024-03-19,West,Pune,Commercial EV,E-Rickshaw,3483560.83,3,406590.16,Individual,Cash,2024,3,1
+2024-03-20,South,Chennai,2-Wheeler EV,Ather 450X,2837769.97,5,303366.39,Corporate,Cash,2024,3,1
+2024-03-21,North,Chandigarh,4-Wheeler EV,Tata Nexon EV,31303550.94,4,3969531.28,Fleet,UPI,2024,3,1
+2024-03-22,North,Lucknow,2-Wheeler EV,Ola S1,962927.5,2,84507.03,Corporate,Cash,2024,3,1
+2024-03-24,West,Mumbai,4-Wheeler EV,MG ZS EV,18228940.65,3,2575826.4,Fleet,Loan,2024,3,1
+2024-03-24,East,Patna,Commercial EV,Electric Auto,3428296.15,3,431464.74,Fleet,Cash,2024,3,1
+2024-03-29,North,Delhi,2-Wheeler EV,Ola S1,1655297.52,4,230156.98,Individual,Lease,2024,3,1
+2024-03-29,East,Patna,4-Wheeler EV,Tata Nexon EV,39196833.56,5,5988707.0,Corporate,UPI,2024,3,1
+2024-03-29,West,Pune,4-Wheeler EV,MG ZS EV,5212462.55,1,638013.43,Corporate,UPI,2024,3,1
+2024-03-29,East,Kolkata,Commercial EV,Electric Auto,2207485.48,2,243054.34,Fleet,Cash,2024,3,1
+2024-03-30,East,Patna,2-Wheeler EV,Ola S1,832736.01,2,73495.13,Individual,Loan,2024,3,1
+2024-04-02,South,Hyderabad,2-Wheeler EV,Ola S1,901832.1,2,131151.32,Corporate,Cash,2024,4,2
+2024-04-02,East,Kolkata,4-Wheeler EV,Mahindra XUV400,34274930.52,5,3178592.1,Fleet,UPI,2024,4,2
+2024-04-03,South,Bangalore,2-Wheeler EV,TVS iQube,2885259.37,5,254355.77,Corporate,UPI,2024,4,2
+2024-04-03,East,Bhubaneswar,2-Wheeler EV,TVS iQube,966995.38,2,104580.84,Corporate,Cash,2024,4,2
+2024-04-05,South,Bangalore,2-Wheeler EV,TVS iQube,977490.86,2,122317.09,Individual,Cash,2024,4,2
+2024-04-06,West,Pune,4-Wheeler EV,Tata Nexon EV,29400077.99,5,2469223.53,Corporate,UPI,2024,4,2
+2024-04-08,East,Patna,Commercial EV,Electric Auto,10036660.85,3,890347.26,Fleet,UPI,2024,4,2
+2024-04-09,East,Bhubaneswar,Commercial EV,E-Rickshaw,5436663.84,3,932303.1,Fleet,Lease,2024,4,2
+2024-04-12,East,Patna,2-Wheeler EV,Ola S1,1457524.88,3,128489.4,Individual,Cash,2024,4,2
+2024-04-12,East,Kolkata,2-Wheeler EV,TVS iQube,632101.32,2,73977.46,Individual,Lease,2024,4,2
+2024-04-13,West,Pune,4-Wheeler EV,MG ZS EV,12569542.08,3,1108244.96,Fleet,Lease,2024,4,2
+2024-04-13,South,Bangalore,2-Wheeler EV,Ola S1,502444.14,1,42818.49,Fleet,UPI,2024,4,2
+2024-04-15,West,Ahmedabad,4-Wheeler EV,Tata Nexon EV,5449140.49,1,894200.98,Corporate,Lease,2024,4,2
+2024-04-16,South,Chennai,2-Wheeler EV,Ather 450X,1775840.23,5,295229.2,Individual,Loan,2024,4,2
+2024-04-16,South,Bangalore,4-Wheeler EV,Tata Nexon EV,27829201.36,5,3568851.24,Corporate,Loan,2024,4,2
+2024-04-18,East,Kolkata,4-Wheeler EV,MG ZS EV,16376461.55,3,2681485.94,Corporate,Cash,2024,4,2
+2024-04-18,West,Pune,2-Wheeler EV,TVS iQube,1279851.87,4,170769.1,Individual,Lease,2024,4,2
+2024-04-19,South,Bangalore,4-Wheeler EV,Mahindra XUV400,17692300.84,4,1503827.82,Individual,Cash,2024,4,2
+2024-04-19,South,Bangalore,Commercial EV,Electric Auto,5721322.79,3,751080.59,Individual,UPI,2024,4,2
+2024-04-20,East,Patna,4-Wheeler EV,Tata Nexon EV,4326547.98,1,680628.68,Fleet,Lease,2024,4,2
+2024-04-21,East,Kolkata,Commercial EV,E-Rickshaw,8572726.26,5,831330.06,Fleet,Loan,2024,4,2
+2024-04-22,East,Patna,4-Wheeler EV,MG ZS EV,32976073.21,4,2856545.58,Individual,UPI,2024,4,2
+2024-04-23,North,Delhi,Commercial EV,E-Rickshaw,3411992.55,4,490286.91,Corporate,UPI,2024,4,2
+2024-04-24,South,Hyderabad,Commercial EV,E-Rickshaw,6162466.92,5,585375.16,Corporate,Cash,2024,4,2
+2024-04-26,South,Bangalore,4-Wheeler EV,Tata Nexon EV,14312181.47,2,1727134.28,Individual,UPI,2024,4,2
+2024-04-26,East,Patna,Commercial EV,E-Rickshaw,2746672.38,1,417517.53,Corporate,UPI,2024,4,2
+2024-04-28,East,Kolkata,2-Wheeler EV,TVS iQube,503594.03,1,74242.6,Fleet,UPI,2024,4,2
+2024-04-28,East,Patna,Commercial EV,Electric Auto,1853782.55,1,289520.09,Fleet,Lease,2024,4,2
+2024-04-30,West,Ahmedabad,2-Wheeler EV,TVS iQube,378814.07,1,56980.98,Fleet,Cash,2024,4,2
+2024-05-01,West,Ahmedabad,Commercial EV,Electric Truck,1185454.37,1,146231.8,Corporate,Lease,2024,5,2
+2024-05-02,South,Bangalore,Commercial EV,E-Rickshaw,3609434.5,2,590624.83,Individual,Cash,2024,5,2
+2024-05-04,West,Pune,4-Wheeler EV,Tata Nexon EV,7562496.62,2,763381.41,Corporate,Cash,2024,5,2
+2024-05-05,South,Chennai,Commercial EV,Electric Truck,2944824.27,2,237876.67,Fleet,UPI,2024,5,2
+2024-05-07,West,Mumbai,4-Wheeler EV,Tata Nexon EV,6634003.49,1,751492.06,Individual,UPI,2024,5,2
+2024-05-07,East,Bhubaneswar,2-Wheeler EV,TVS iQube,2272738.81,5,382659.02,Fleet,UPI,2024,5,2
+2024-05-08,North,Lucknow,2-Wheeler EV,Ola S1,1010250.51,3,168507.82,Fleet,Lease,2024,5,2
+2024-05-09,East,Patna,2-Wheeler EV,Ola S1,1599350.56,4,204011.23,Fleet,Cash,2024,5,2
+2024-05-10,West,Pune,4-Wheeler EV,Mahindra XUV400,15206789.44,4,1328796.85,Fleet,Cash,2024,5,2
+2024-05-12,South,Hyderabad,2-Wheeler EV,Ather 450X,2437126.98,5,380523.76,Fleet,Lease,2024,5,2
+2024-05-12,North,Chandigarh,2-Wheeler EV,Ather 450X,1261890.72,4,116094.9,Fleet,Loan,2024,5,2
+2024-05-12,West,Mumbai,Commercial EV,Electric Truck,5070591.91,4,555734.0,Corporate,UPI,2024,5,2
+2024-05-14,West,Mumbai,4-Wheeler EV,MG ZS EV,23417924.59,5,1933347.36,Corporate,UPI,2024,5,2
+2024-05-15,North,Delhi,2-Wheeler EV,Ather 450X,1954423.06,4,196075.78,Fleet,Cash,2024,5,2
+2024-05-18,North,Lucknow,4-Wheeler EV,Tata Nexon EV,31633979.64,4,3348042.41,Individual,Cash,2024,5,2
+2024-05-20,West,Pune,2-Wheeler EV,Ola S1,609027.78,2,92673.09,Individual,Lease,2024,5,2
+2024-05-20,South,Hyderabad,2-Wheeler EV,Ola S1,2983606.28,5,454894.4,Individual,Lease,2024,5,2
+2024-05-20,West,Pune,4-Wheeler EV,MG ZS EV,23252037.8,5,3433821.8,Fleet,Lease,2024,5,2
+2024-05-22,South,Bangalore,4-Wheeler EV,Tata Nexon EV,24187251.05,3,4275300.34,Fleet,UPI,2024,5,2
+2024-05-22,South,Chennai,Commercial EV,Electric Truck,11911997.35,4,961509.13,Fleet,Cash,2024,5,2
+2024-05-24,West,Mumbai,Commercial EV,E-Rickshaw,9485355.57,4,1089493.43,Fleet,Cash,2024,5,2
+2024-05-26,South,Chennai,2-Wheeler EV,TVS iQube,1772540.3,5,227406.42,Individual,Lease,2024,5,2
+2024-05-26,North,Lucknow,4-Wheeler EV,Tata Nexon EV,8005402.58,1,1107554.67,Corporate,UPI,2024,5,2
+2024-05-27,East,Kolkata,4-Wheeler EV,MG ZS EV,20254696.97,5,3282759.53,Fleet,Lease,2024,5,2
+2024-05-29,West,Ahmedabad,2-Wheeler EV,Ather 450X,2582305.5,5,335069.6,Corporate,Cash,2024,5,2
+2024-05-31,South,Hyderabad,Commercial EV,Electric Auto,9164383.69,4,1120943.81,Corporate,UPI,2024,5,2
+2024-06-02,East,Kolkata,Commercial EV,Electric Auto,4798252.2,2,799526.64,Fleet,Lease,2024,6,2
+2024-06-02,South,Bangalore,Commercial EV,Electric Truck,6744681.96,4,1024455.1,Individual,Cash,2024,6,2
+2024-06-04,West,Ahmedabad,4-Wheeler EV,Mahindra XUV400,13012218.93,2,1344103.77,Corporate,Lease,2024,6,2
+2024-06-04,South,Hyderabad,2-Wheeler EV,TVS iQube,2455771.44,4,262004.78,Corporate,UPI,2024,6,2
+2024-06-05,East,Kolkata,Commercial EV,Electric Truck,3391680.17,1,596502.03,Individual,Loan,2024,6,2
+2024-06-05,West,Mumbai,Commercial EV,E-Rickshaw,7746900.25,3,1294615.92,Fleet,UPI,2024,6,2
+2024-06-06,West,Pune,4-Wheeler EV,Tata Nexon EV,15603838.9,2,1660698.52,Fleet,UPI,2024,6,2
+2024-06-07,East,Patna,Commercial EV,Electric Auto,3298927.93,3,362307.88,Individual,Loan,2024,6,2
+2024-06-08,West,Pune,2-Wheeler EV,Ola S1,500300.77,1,44883.09,Individual,Lease,2024,6,2
+2024-06-08,East,Patna,4-Wheeler EV,Tata Nexon EV,12188969.93,2,1012104.06,Fleet,UPI,2024,6,2
+2024-06-08,South,Chennai,Commercial EV,E-Rickshaw,4310174.41,3,559748.5,Individual,Cash,2024,6,2
+2024-06-08,East,Patna,Commercial EV,Electric Truck,5468513.79,3,465069.86,Corporate,Loan,2024,6,2
+2024-06-08,West,Ahmedabad,2-Wheeler EV,TVS iQube,1872867.44,3,263982.88,Corporate,Cash,2024,6,2
+2024-06-09,West,Pune,Commercial EV,Electric Truck,9812240.7,4,1027375.05,Corporate,UPI,2024,6,2
+2024-06-10,West,Pune,2-Wheeler EV,TVS iQube,809291.62,2,115818.91,Fleet,Cash,2024,6,2
+2024-06-11,East,Kolkata,2-Wheeler EV,Ola S1,676001.92,2,84396.55,Individual,Cash,2024,6,2
+2024-06-12,South,Bangalore,4-Wheeler EV,Tata Nexon EV,7052372.11,1,1075262.82,Fleet,Cash,2024,6,2
+2024-06-12,East,Bhubaneswar,4-Wheeler EV,Tata Nexon EV,8914158.14,2,957025.95,Fleet,UPI,2024,6,2
+2024-06-14,South,Bangalore,2-Wheeler EV,TVS iQube,992187.11,2,150975.42,Individual,Loan,2024,6,2
+2024-06-17,West,Ahmedabad,4-Wheeler EV,MG ZS EV,14835251.74,3,1789508.89,Individual,Cash,2024,6,2
+2024-06-17,South,Hyderabad,Commercial EV,Electric Auto,8840897.52,4,999558.13,Individual,Lease,2024,6,2
+2024-06-20,East,Bhubaneswar,4-Wheeler EV,Mahindra XUV400,10295675.88,2,1416822.4,Fleet,Cash,2024,6,2
+2024-06-20,East,Kolkata,2-Wheeler EV,TVS iQube,2275768.82,5,283871.21,Corporate,Lease,2024,6,2
+2024-06-21,West,Ahmedabad,Commercial EV,E-Rickshaw,2580950.55,2,457771.54,Corporate,UPI,2024,6,2
+2024-06-21,East,Patna,4-Wheeler EV,Tata Nexon EV,22652646.0,4,2620136.05,Individual,Lease,2024,6,2
+2024-06-21,East,Patna,2-Wheeler EV,Ola S1,782574.24,2,84851.11,Corporate,Loan,2024,6,2
+2024-06-22,East,Bhubaneswar,Commercial EV,Electric Truck,2533488.8,2,362565.03,Fleet,Loan,2024,6,2
+2024-06-24,East,Bhubaneswar,2-Wheeler EV,Ola S1,1183760.4,2,171944.66,Fleet,Cash,2024,6,2
+2024-06-25,East,Bhubaneswar,Commercial EV,E-Rickshaw,8584576.51,5,1396158.71,Corporate,Cash,2024,6,2
+2024-06-25,North,Lucknow,4-Wheeler EV,Tata Nexon EV,20540271.11,3,2916050.16,Corporate,UPI,2024,6,2
+2024-06-26,North,Chandigarh,2-Wheeler EV,TVS iQube,1149668.76,3,162000.26,Corporate,Loan,2024,6,2
+2024-06-27,South,Chennai,2-Wheeler EV,Ather 450X,674720.12,2,96109.06,Individual,Lease,2024,6,2
+2024-06-28,South,Bangalore,2-Wheeler EV,Ola S1,1234730.58,3,155560.16,Individual,UPI,2024,6,2
+2024-07-04,East,Patna,Commercial EV,Electric Auto,5100493.13,2,478035.13,Corporate,Lease,2024,7,3
+2024-07-05,West,Pune,4-Wheeler EV,Tata Nexon EV,20160608.88,3,3366179.38,Fleet,UPI,2024,7,3
+2024-07-09,West,Mumbai,Commercial EV,Electric Auto,10051417.25,5,1572124.71,Corporate,Loan,2024,7,3
+2024-07-09,North,Delhi,4-Wheeler EV,Mahindra XUV400,20592550.97,3,1790880.8,Fleet,Loan,2024,7,3
+2024-07-10,West,Ahmedabad,4-Wheeler EV,Tata Nexon EV,18457647.57,4,2303706.48,Fleet,Lease,2024,7,3
+2024-07-10,North,Delhi,4-Wheeler EV,Tata Nexon EV,24881606.42,5,2229751.5,Individual,Loan,2024,7,3
+2024-07-11,North,Delhi,2-Wheeler EV,TVS iQube,1530060.08,3,185652.44,Fleet,Cash,2024,7,3
+2024-07-14,West,Pune,2-Wheeler EV,Ather 450X,1094965.6,3,90693.43,Individual,Loan,2024,7,3
+2024-07-14,North,Chandigarh,4-Wheeler EV,Mahindra XUV400,12311084.72,3,1505552.89,Individual,Lease,2024,7,3
+2024-07-16,South,Chennai,4-Wheeler EV,Tata Nexon EV,17610026.55,4,1658950.62,Corporate,Loan,2024,7,3
+2024-07-17,South,Hyderabad,4-Wheeler EV,Tata Nexon EV,25478356.96,5,4365319.37,Corporate,Loan,2024,7,3
+2024-07-19,North,Chandigarh,Commercial EV,Electric Truck,13516600.13,4,1463887.77,Fleet,Loan,2024,7,3
+2024-07-19,West,Pune,Commercial EV,E-Rickshaw,8843549.81,3,1222700.86,Corporate,UPI,2024,7,3
+2024-07-23,North,Delhi,Commercial EV,Electric Truck,2788991.58,1,310317.34,Individual,UPI,2024,7,3
+2024-07-25,East,Kolkata,4-Wheeler EV,Tata Nexon EV,27831126.96,4,4575632.73,Corporate,UPI,2024,7,3
+2024-07-25,North,Chandigarh,Commercial EV,Electric Truck,3919745.48,2,420368.8,Fleet,Loan,2024,7,3
+2024-07-26,South,Chennai,Commercial EV,Electric Truck,3329245.12,1,286072.79,Fleet,Cash,2024,7,3
+2024-07-29,South,Hyderabad,4-Wheeler EV,Tata Nexon EV,31208002.31,5,2767605.58,Individual,Loan,2024,7,3
+2024-07-30,East,Bhubaneswar,2-Wheeler EV,Ather 450X,2275258.77,4,196035.11,Individual,Lease,2024,7,3
+2024-07-31,East,Patna,2-Wheeler EV,Ather 450X,980279.35,3,171173.26,Individual,Loan,2024,7,3
+2024-07-31,South,Hyderabad,Commercial EV,Electric Truck,12745627.02,5,1287095.2,Individual,Lease,2024,7,3
+2024-07-31,North,Delhi,4-Wheeler EV,MG ZS EV,11129982.19,3,1718138.31,Fleet,Loan,2024,7,3
+2024-08-01,South,Hyderabad,Commercial EV,Electric Truck,5766826.54,4,1027091.88,Individual,Lease,2024,8,3
+2024-08-01,West,Mumbai,4-Wheeler EV,Tata Nexon EV,14185314.66,2,2441285.39,Fleet,Lease,2024,8,3
+2024-08-02,West,Ahmedabad,2-Wheeler EV,Ather 450X,438740.74,1,52912.13,Fleet,Cash,2024,8,3
+2024-08-03,South,Bangalore,4-Wheeler EV,MG ZS EV,22716010.08,5,3888110.54,Fleet,Loan,2024,8,3
+2024-08-05,West,Ahmedabad,2-Wheeler EV,Ola S1,1072083.39,2,111213.12,Fleet,Loan,2024,8,3
+2024-08-05,East,Kolkata,2-Wheeler EV,TVS iQube,876440.48,2,135719.34,Fleet,UPI,2024,8,3
+2024-08-08,North,Delhi,Commercial EV,Electric Auto,1913951.72,1,291460.31,Individual,UPI,2024,8,3
+2024-08-11,West,Mumbai,2-Wheeler EV,Ather 450X,2661900.35,5,337949.1,Individual,Cash,2024,8,3
+2024-08-11,West,Pune,2-Wheeler EV,TVS iQube,2104578.01,4,266817.47,Individual,Lease,2024,8,3
+2024-08-11,North,Delhi,Commercial EV,Electric Auto,1896959.25,2,260904.69,Corporate,UPI,2024,8,3
+2024-08-13,West,Mumbai,2-Wheeler EV,Ola S1,511229.75,1,62132.75,Fleet,Lease,2024,8,3
+2024-08-16,North,Lucknow,Commercial EV,Electric Truck,1948801.3,2,327943.4,Fleet,UPI,2024,8,3
+2024-08-16,South,Hyderabad,4-Wheeler EV,Tata Nexon EV,42735373.69,5,5496995.35,Individual,Lease,2024,8,3
+2024-08-17,East,Kolkata,2-Wheeler EV,Ola S1,2383560.22,5,366059.33,Individual,Loan,2024,8,3
+2024-08-19,West,Mumbai,4-Wheeler EV,Tata Nexon EV,9056277.59,2,1431957.92,Corporate,Loan,2024,8,3
+2024-08-19,West,Ahmedabad,Commercial EV,Electric Truck,7538908.42,4,1095847.32,Individual,Lease,2024,8,3
+2024-08-19,West,Pune,4-Wheeler EV,Mahindra XUV400,26968307.55,5,4845529.77,Fleet,Lease,2024,8,3
+2024-08-19,West,Pune,Commercial EV,E-Rickshaw,2618357.36,2,254550.48,Corporate,UPI,2024,8,3
+2024-08-19,North,Chandigarh,4-Wheeler EV,Tata Nexon EV,26756990.09,5,2708570.19,Corporate,Loan,2024,8,3
+2024-08-20,South,Bangalore,Commercial EV,E-Rickshaw,2334203.64,1,279216.68,Individual,Cash,2024,8,3
+2024-08-21,West,Ahmedabad,4-Wheeler EV,Tata Nexon EV,20925205.28,3,2795973.03,Fleet,Cash,2024,8,3
+2024-08-22,North,Chandigarh,Commercial EV,Electric Auto,1487459.24,1,165361.95,Corporate,Loan,2024,8,3
+2024-08-24,South,Chennai,Commercial EV,E-Rickshaw,10835616.1,5,1814973.52,Corporate,UPI,2024,8,3
+2024-08-24,North,Lucknow,4-Wheeler EV,Mahindra XUV400,13539018.71,2,1943522.58,Individual,Cash,2024,8,3
+2024-08-25,South,Chennai,Commercial EV,Electric Truck,5979204.45,3,1052349.24,Fleet,UPI,2024,8,3
+2024-08-25,North,Delhi,4-Wheeler EV,Tata Nexon EV,6797135.29,1,861684.45,Corporate,Cash,2024,8,3
+2024-08-29,North,Lucknow,Commercial EV,Electric Auto,7380294.2,4,978869.64,Corporate,Lease,2024,8,3
+2024-08-29,East,Kolkata,4-Wheeler EV,Mahindra XUV400,31516116.67,5,3785236.32,Fleet,Cash,2024,8,3
+2024-08-30,South,Hyderabad,4-Wheeler EV,Mahindra XUV400,11194763.21,3,990998.75,Fleet,UPI,2024,8,3
+2024-09-02,North,Delhi,Commercial EV,Electric Auto,4199594.75,2,364467.65,Fleet,UPI,2024,9,3
+2024-09-03,West,Pune,Commercial EV,E-Rickshaw,13517454.78,4,1108940.63,Fleet,UPI,2024,9,3
+2024-09-04,South,Hyderabad,Commercial EV,Electric Auto,12493877.57,5,1325071.92,Corporate,Loan,2024,9,3
+2024-09-05,South,Chennai,4-Wheeler EV,Tata Nexon EV,17590044.31,3,1471528.78,Individual,Loan,2024,9,3
+2024-09-05,East,Bhubaneswar,Commercial EV,Electric Auto,13340221.43,5,1427961.7,Fleet,UPI,2024,9,3
+2024-09-05,West,Mumbai,4-Wheeler EV,Tata Nexon EV,21354671.52,4,1811134.18,Corporate,Cash,2024,9,3
+2024-09-06,East,Bhubaneswar,Commercial EV,Electric Auto,1156170.18,1,118613.68,Fleet,Lease,2024,9,3
+2024-09-09,South,Bangalore,2-Wheeler EV,TVS iQube,1204745.69,3,127942.52,Fleet,Loan,2024,9,3
+2024-09-10,North,Chandigarh,2-Wheeler EV,Ola S1,851594.51,2,95393.41,Corporate,Loan,2024,9,3
+2024-09-11,East,Bhubaneswar,Commercial EV,Electric Auto,4051094.27,5,344759.93,Individual,UPI,2024,9,3
+2024-09-11,East,Patna,Commercial EV,Electric Truck,12121133.08,4,1606826.62,Corporate,Cash,2024,9,3
+2024-09-13,South,Chennai,Commercial EV,Electric Truck,2058662.61,1,307128.85,Individual,Lease,2024,9,3
+2024-09-14,East,Patna,2-Wheeler EV,Ather 450X,875200.05,2,112579.27,Individual,Loan,2024,9,3
+2024-09-16,South,Hyderabad,4-Wheeler EV,Mahindra XUV400,19923100.15,4,3448430.52,Fleet,Loan,2024,9,3
+2024-09-18,West,Ahmedabad,Commercial EV,Electric Truck,9228013.96,4,894583.29,Corporate,UPI,2024,9,3
+2024-09-19,West,Mumbai,4-Wheeler EV,MG ZS EV,21864301.96,3,2243003.38,Individual,Cash,2024,9,3
+2024-09-20,North,Chandigarh,4-Wheeler EV,Tata Nexon EV,35980313.32,5,5008414.89,Corporate,Lease,2024,9,3
+2024-09-20,East,Bhubaneswar,Commercial EV,Electric Auto,4216619.42,4,440938.61,Individual,Loan,2024,9,3
+2024-09-24,East,Patna,Commercial EV,Electric Auto,9085562.47,5,731917.3,Individual,UPI,2024,9,3
+2024-09-27,East,Bhubaneswar,Commercial EV,Electric Truck,4188945.4,3,400415.01,Corporate,UPI,2024,9,3
+2024-09-28,East,Kolkata,Commercial EV,Electric Auto,3617371.43,3,353897.07,Fleet,Loan,2024,9,3
+2024-09-28,South,Hyderabad,2-Wheeler EV,TVS iQube,1537969.14,3,223024.89,Corporate,Lease,2024,9,3
+2024-09-29,West,Pune,Commercial EV,Electric Truck,11392293.73,5,1630763.24,Fleet,Cash,2024,9,3
+2024-09-29,West,Ahmedabad,4-Wheeler EV,Tata Nexon EV,20671969.76,5,1979122.85,Fleet,Cash,2024,9,3
+2024-09-29,South,Hyderabad,Commercial EV,Electric Truck,5582120.21,2,495886.73,Fleet,Loan,2024,9,3
+2024-09-30,West,Pune,4-Wheeler EV,Tata Nexon EV,11665166.4,2,1820442.16,Corporate,Lease,2024,9,3
+2024-10-01,North,Lucknow,Commercial EV,Electric Truck,5712404.83,2,869123.37,Fleet,Cash,2024,10,4
+2024-10-03,South,Hyderabad,4-Wheeler EV,Tata Nexon EV,27538653.52,5,4454301.4,Fleet,UPI,2024,10,4
+2024-10-05,North,Delhi,Commercial EV,Electric Auto,7527266.92,4,1024397.84,Fleet,Lease,2024,10,4
+2024-10-06,West,Pune,Commercial EV,Electric Truck,7497509.52,4,705784.25,Corporate,Cash,2024,10,4
+2024-10-06,South,Hyderabad,Commercial EV,E-Rickshaw,2970205.46,2,453826.54,Individual,Loan,2024,10,4
+2024-10-07,East,Kolkata,4-Wheeler EV,MG ZS EV,13499550.69,3,1787167.43,Fleet,UPI,2024,10,4
+2024-10-11,East,Patna,Commercial EV,E-Rickshaw,3245348.1,2,313504.02,Fleet,Lease,2024,10,4
+2024-10-11,West,Mumbai,Commercial EV,Electric Truck,2682276.33,2,216174.43,Individual,UPI,2024,10,4
+2024-10-11,West,Mumbai,4-Wheeler EV,MG ZS EV,4238869.85,1,495507.35,Individual,Loan,2024,10,4
+2024-10-12,North,Delhi,4-Wheeler EV,Tata Nexon EV,17865317.7,3,2081576.14,Corporate,Lease,2024,10,4
+2024-10-14,North,Delhi,2-Wheeler EV,Ola S1,1961458.48,4,291524.74,Fleet,Cash,2024,10,4
+2024-10-14,North,Lucknow,4-Wheeler EV,Mahindra XUV400,10196449.87,2,1677890.56,Individual,UPI,2024,10,4
+2024-10-15,West,Pune,4-Wheeler EV,Mahindra XUV400,15826355.04,2,2695643.31,Fleet,Lease,2024,10,4
+2024-10-16,West,Ahmedabad,2-Wheeler EV,TVS iQube,2306975.6,5,232950.68,Individual,Cash,2024,10,4
+2024-10-16,South,Hyderabad,2-Wheeler EV,TVS iQube,880919.91,3,130603.05,Fleet,Cash,2024,10,4
+2024-10-16,North,Chandigarh,4-Wheeler EV,Mahindra XUV400,18029219.12,4,2204141.17,Corporate,UPI,2024,10,4
+2024-10-17,South,Chennai,2-Wheeler EV,TVS iQube,1958392.71,3,225511.98,Individual,UPI,2024,10,4
+2024-10-18,South,Hyderabad,4-Wheeler EV,MG ZS EV,14901587.35,3,1257632.12,Fleet,UPI,2024,10,4
+2024-10-18,South,Bangalore,Commercial EV,Electric Truck,4644803.68,5,772902.27,Corporate,UPI,2024,10,4
+2024-10-19,West,Ahmedabad,2-Wheeler EV,Ather 450X,1677137.06,4,190890.56,Corporate,Lease,2024,10,4
+2024-10-20,North,Chandigarh,2-Wheeler EV,TVS iQube,539677.96,1,65887.32,Fleet,Loan,2024,10,4
+2024-10-24,West,Ahmedabad,2-Wheeler EV,Ola S1,1107609.37,2,90893.16,Individual,UPI,2024,10,4
+2024-10-24,West,Pune,2-Wheeler EV,TVS iQube,1336051.05,3,208602.5,Individual,Lease,2024,10,4
+2024-10-24,West,Mumbai,4-Wheeler EV,MG ZS EV,10514312.49,2,1789540.2,Fleet,UPI,2024,10,4
+2024-10-26,West,Mumbai,Commercial EV,E-Rickshaw,8701157.13,4,936109.03,Fleet,Loan,2024,10,4
+2024-10-27,South,Hyderabad,4-Wheeler EV,MG ZS EV,6924988.56,1,1012136.21,Individual,UPI,2024,10,4
+2024-10-27,West,Mumbai,Commercial EV,Electric Auto,7053037.81,5,1013094.31,Corporate,UPI,2024,10,4
+2024-10-31,West,Mumbai,Commercial EV,E-Rickshaw,5843536.44,5,732486.53,Fleet,UPI,2024,10,4
+2024-11-01,North,Chandigarh,Commercial EV,Electric Auto,1923323.29,1,311086.65,Individual,Cash,2024,11,4
+2024-11-02,South,Hyderabad,2-Wheeler EV,Ather 450X,859757.26,2,69254.22,Fleet,Loan,2024,11,4
+2024-11-03,East,Kolkata,Commercial EV,Electric Truck,3322684.12,1,422946.58,Fleet,Cash,2024,11,4
+2024-11-03,North,Chandigarh,Commercial EV,Electric Auto,2936551.58,2,351815.75,Fleet,UPI,2024,11,4
+2024-11-06,West,Mumbai,2-Wheeler EV,Ola S1,2213380.44,5,234253.21,Fleet,Cash,2024,11,4
+2024-11-09,West,Ahmedabad,2-Wheeler EV,Ather 450X,1418280.46,4,246636.11,Individual,Lease,2024,11,4
+2024-11-09,East,Bhubaneswar,Commercial EV,Electric Truck,6744834.45,3,1206050.16,Corporate,Lease,2024,11,4
+2024-11-14,West,Ahmedabad,2-Wheeler EV,Ola S1,1689058.7,4,202098.35,Corporate,Loan,2024,11,4
+2024-11-15,West,Pune,4-Wheeler EV,Tata Nexon EV,26744888.65,4,3146064.0,Corporate,Lease,2024,11,4
+2024-11-15,West,Pune,Commercial EV,E-Rickshaw,3537744.22,5,544311.48,Fleet,Loan,2024,11,4
+2024-11-16,West,Pune,Commercial EV,Electric Auto,4425166.75,2,391344.73,Fleet,Cash,2024,11,4
+2024-11-16,South,Bangalore,2-Wheeler EV,TVS iQube,723245.18,2,127050.51,Individual,Lease,2024,11,4
+2024-11-19,East,Kolkata,4-Wheeler EV,Mahindra XUV400,32868334.26,5,3887632.28,Corporate,UPI,2024,11,4
+2024-11-20,South,Bangalore,Commercial EV,Electric Truck,11189025.03,4,1892728.51,Corporate,Lease,2024,11,4
+2024-11-21,West,Mumbai,4-Wheeler EV,Mahindra XUV400,31178321.92,5,4654877.4,Individual,Loan,2024,11,4
+2024-11-23,North,Lucknow,2-Wheeler EV,TVS iQube,633548.56,2,52657.57,Fleet,Lease,2024,11,4
+2024-11-23,West,Pune,Commercial EV,E-Rickshaw,5190400.41,2,732626.73,Individual,Cash,2024,11,4
+2024-11-23,South,Chennai,2-Wheeler EV,Ather 450X,1114023.32,2,178318.55,Corporate,Cash,2024,11,4
+2024-11-24,West,Mumbai,4-Wheeler EV,MG ZS EV,5013663.48,1,499447.65,Individual,Lease,2024,11,4
+2024-11-26,North,Lucknow,4-Wheeler EV,Mahindra XUV400,14834131.84,2,2306714.15,Corporate,Loan,2024,11,4
+2024-11-27,West,Mumbai,Commercial EV,Electric Truck,3869816.31,2,651597.71,Fleet,Cash,2024,11,4
+2024-11-27,South,Hyderabad,Commercial EV,Electric Truck,8132273.69,5,652581.85,Fleet,Cash,2024,11,4
+2024-11-28,North,Lucknow,Commercial EV,Electric Auto,5993011.44,3,1078364.75,Corporate,Lease,2024,11,4
+2024-11-29,South,Hyderabad,2-Wheeler EV,TVS iQube,1284792.08,4,202189.15,Corporate,Lease,2024,11,4
+2024-11-30,West,Ahmedabad,2-Wheeler EV,TVS iQube,906580.47,2,79380.43,Corporate,Loan,2024,11,4
+2024-12-01,East,Bhubaneswar,4-Wheeler EV,Mahindra XUV400,4268254.4,1,423352.57,Fleet,Lease,2024,12,4
+2024-12-01,South,Hyderabad,2-Wheeler EV,Ather 450X,1288646.93,3,156073.5,Individual,Cash,2024,12,4
+2024-12-02,South,Chennai,2-Wheeler EV,Ola S1,984045.07,2,97148.0,Individual,Lease,2024,12,4
+2024-12-04,North,Lucknow,4-Wheeler EV,MG ZS EV,7903359.46,1,914128.03,Fleet,Cash,2024,12,4
+2024-12-04,East,Patna,4-Wheeler EV,Mahindra XUV400,32710753.61,5,4668531.71,Corporate,Loan,2024,12,4
+2024-12-05,South,Chennai,2-Wheeler EV,Ather 450X,1973462.26,4,342172.73,Corporate,UPI,2024,12,4
+2024-12-05,East,Bhubaneswar,4-Wheeler EV,Tata Nexon EV,17182746.37,4,2555700.9,Fleet,Loan,2024,12,4
+2024-12-08,West,Mumbai,2-Wheeler EV,Ola S1,1039766.41,2,143630.77,Fleet,UPI,2024,12,4
+2024-12-09,East,Bhubaneswar,Commercial EV,Electric Auto,5785221.35,4,499964.03,Fleet,Loan,2024,12,4
+2024-12-09,North,Delhi,Commercial EV,Electric Truck,2960484.72,2,276623.09,Corporate,UPI,2024,12,4
+2024-12-11,North,Lucknow,4-Wheeler EV,MG ZS EV,4197487.97,1,677666.63,Fleet,Cash,2024,12,4
+2024-12-16,West,Pune,4-Wheeler EV,Mahindra XUV400,8626344.56,2,1353914.9,Corporate,Cash,2024,12,4
+2024-12-17,West,Pune,Commercial EV,E-Rickshaw,2720864.99,1,282625.12,Corporate,Cash,2024,12,4
+2024-12-17,South,Chennai,Commercial EV,Electric Truck,3695092.51,2,303777.71,Individual,Cash,2024,12,4
+2024-12-18,South,Hyderabad,2-Wheeler EV,Ola S1,616646.3,1,55868.98,Corporate,Loan,2024,12,4
+2024-12-20,North,Lucknow,4-Wheeler EV,Mahindra XUV400,32070925.82,5,2984035.52,Fleet,Cash,2024,12,4
+2024-12-22,South,Chennai,4-Wheeler EV,Tata Nexon EV,12536376.65,3,1023495.0,Individual,Lease,2024,12,4
+2024-12-22,North,Lucknow,2-Wheeler EV,Ather 450X,1277655.61,2,172887.84,Fleet,Loan,2024,12,4
+2024-12-22,North,Lucknow,4-Wheeler EV,MG ZS EV,4799412.5,1,614189.97,Corporate,UPI,2024,12,4
+2024-12-25,East,Kolkata,Commercial EV,E-Rickshaw,10100602.54,3,1674906.96,Fleet,Lease,2024,12,4
+2024-12-25,South,Bangalore,Commercial EV,E-Rickshaw,7117982.05,5,1130393.07,Individual,Loan,2024,12,4
+2024-12-25,East,Kolkata,Commercial EV,Electric Auto,3088169.69,2,527691.4,Individual,UPI,2024,12,4
+2024-12-25,South,Hyderabad,4-Wheeler EV,Tata Nexon EV,8040357.02,2,1314965.22,Corporate,Cash,2024,12,4
+2024-12-26,East,Kolkata,4-Wheeler EV,Mahindra XUV400,12483461.56,2,2222268.69,Fleet,Cash,2024,12,4
+2024-12-27,West,Pune,4-Wheeler EV,Mahindra XUV400,7558422.89,1,872349.51,Fleet,UPI,2024,12,4
+2024-12-27,East,Bhubaneswar,4-Wheeler EV,Mahindra XUV400,26863987.7,4,2312077.93,Corporate,Cash,2024,12,4
+2024-12-30,North,Chandigarh,4-Wheeler EV,Tata Nexon EV,4500768.23,1,676814.72,Corporate,UPI,2024,12,4
+2024-12-31,East,Patna,4-Wheeler EV,MG ZS EV,20215823.1,3,2701294.72,Corporate,Cash,2024,12,4
+2025-01-01,East,Bhubaneswar,Commercial EV,Electric Auto,3511592.8,2,542247.08,Individual,Cash,2025,1,1
+2025-01-02,West,Mumbai,2-Wheeler EV,Ola S1,670520.89,1,117787.17,Individual,Cash,2025,1,1
+2025-01-04,North,Chandigarh,4-Wheeler EV,Mahindra XUV400,39800550.34,5,4737746.27,Corporate,Loan,2025,1,1
+2025-01-07,South,Hyderabad,2-Wheeler EV,Ather 450X,3072429.44,4,529214.24,Individual,Cash,2025,1,1
+2025-01-12,West,Ahmedabad,2-Wheeler EV,TVS iQube,1737090.96,3,232695.14,Individual,UPI,2025,1,1
+2025-01-12,North,Chandigarh,4-Wheeler EV,Mahindra XUV400,34448555.4,4,3334304.07,Corporate,UPI,2025,1,1
+2025-01-12,West,Mumbai,2-Wheeler EV,TVS iQube,806083.43,1,125604.89,Corporate,Loan,2025,1,1
+2025-01-13,East,Patna,4-Wheeler EV,Tata Nexon EV,7367924.57,1,1180943.42,Individual,Loan,2025,1,1
+2025-01-13,West,Mumbai,4-Wheeler EV,Tata Nexon EV,29268057.55,3,5219884.26,Individual,UPI,2025,1,1
+2025-01-15,East,Bhubaneswar,4-Wheeler EV,MG ZS EV,23075943.01,3,2586650.94,Fleet,Cash,2025,1,1
+2025-01-16,North,Chandigarh,4-Wheeler EV,Mahindra XUV400,10318592.76,1,1330282.63,Individual,UPI,2025,1,1
+2025-01-16,West,Mumbai,4-Wheeler EV,MG ZS EV,27497336.4,4,4159696.68,Corporate,Loan,2025,1,1
+2025-01-16,East,Bhubaneswar,Commercial EV,Electric Truck,11036472.69,3,1262887.75,Fleet,Cash,2025,1,1
+2025-01-17,South,Hyderabad,2-Wheeler EV,TVS iQube,1524927.2,4,189241.71,Individual,Lease,2025,1,1
+2025-01-20,South,Bangalore,4-Wheeler EV,Mahindra XUV400,7187696.89,1,794140.82,Fleet,Cash,2025,1,1
+2025-01-21,North,Delhi,Commercial EV,E-Rickshaw,8097503.76,4,1086425.69,Individual,UPI,2025,1,1
+2025-01-21,North,Delhi,2-Wheeler EV,Ola S1,858610.19,1,134321.44,Individual,Cash,2025,1,1
+2025-01-21,South,Bangalore,Commercial EV,E-Rickshaw,3028211.56,1,244410.63,Fleet,Lease,2025,1,1
+2025-01-22,East,Patna,2-Wheeler EV,Ather 450X,801958.95,1,87505.05,Individual,Lease,2025,1,1
+2025-01-22,East,Patna,2-Wheeler EV,Ola S1,2421966.19,3,239595.41,Fleet,Lease,2025,1,1
+2025-01-23,South,Chennai,Commercial EV,Electric Truck,9646450.1,3,1375858.74,Fleet,Cash,2025,1,1
+2025-01-23,North,Lucknow,2-Wheeler EV,TVS iQube,1232929.58,2,220550.14,Corporate,Loan,2025,1,1
+2025-01-26,South,Chennai,Commercial EV,Electric Auto,4576664.61,1,541738.85,Fleet,Lease,2025,1,1
+2025-01-26,South,Hyderabad,Commercial EV,Electric Auto,1596397.36,1,195934.7,Fleet,UPI,2025,1,1
+2025-01-27,South,Hyderabad,4-Wheeler EV,MG ZS EV,22438501.76,3,2529284.64,Corporate,UPI,2025,1,1
+2025-01-28,East,Kolkata,2-Wheeler EV,Ola S1,2031610.48,4,200374.04,Fleet,Cash,2025,1,1
+2025-01-31,East,Kolkata,Commercial EV,Electric Auto,11933808.68,4,1668856.71,Individual,Loan,2025,1,1
+2025-01-31,South,Bangalore,2-Wheeler EV,Ather 450X,1961700.21,4,343017.84,Fleet,UPI,2025,1,1
+2025-02-01,North,Delhi,4-Wheeler EV,MG ZS EV,12895973.06,2,1436205.39,Fleet,UPI,2025,2,1
+2025-02-01,South,Bangalore,4-Wheeler EV,Tata Nexon EV,36065731.33,5,3990126.4,Individual,Cash,2025,2,1
+2025-02-02,North,Delhi,2-Wheeler EV,Ola S1,2994178.88,5,400771.89,Fleet,Loan,2025,2,1
+2025-02-03,South,Bangalore,4-Wheeler EV,MG ZS EV,49269273.83,5,7021943.48,Corporate,Loan,2025,2,1
+2025-02-05,West,Pune,2-Wheeler EV,TVS iQube,2466761.67,5,329759.64,Fleet,Lease,2025,2,1
+2025-02-06,West,Mumbai,2-Wheeler EV,TVS iQube,2565132.28,4,331544.43,Fleet,Loan,2025,2,1
+2025-02-07,East,Kolkata,2-Wheeler EV,Ola S1,1574932.24,4,161214.02,Fleet,Lease,2025,2,1
+2025-02-09,West,Pune,4-Wheeler EV,MG ZS EV,21719950.34,4,3826052.77,Fleet,Cash,2025,2,1
+2025-02-10,West,Mumbai,4-Wheeler EV,MG ZS EV,22474278.37,4,3576275.99,Corporate,UPI,2025,2,1
+2025-02-11,South,Chennai,2-Wheeler EV,TVS iQube,1373331.56,2,150327.23,Corporate,Cash,2025,2,1
+2025-02-11,East,Kolkata,2-Wheeler EV,Ola S1,1448255.17,2,121337.06,Individual,UPI,2025,2,1
+2025-02-14,North,Delhi,2-Wheeler EV,TVS iQube,3258574.05,5,582915.92,Individual,Loan,2025,2,1
+2025-02-16,South,Chennai,2-Wheeler EV,TVS iQube,1621342.44,3,163254.09,Individual,Cash,2025,2,1
+2025-02-17,North,Lucknow,2-Wheeler EV,TVS iQube,2863455.08,4,294661.33,Fleet,Lease,2025,2,1
+2025-02-17,East,Kolkata,Commercial EV,Electric Auto,3143679.98,1,375697.12,Individual,Cash,2025,2,1
+2025-02-20,West,Ahmedabad,2-Wheeler EV,Ather 450X,1498804.87,2,235463.6,Individual,Loan,2025,2,1
+2025-02-20,North,Delhi,2-Wheeler EV,Ather 450X,477434.02,1,84901.14,Individual,Lease,2025,2,1
+2025-02-26,West,Mumbai,2-Wheeler EV,TVS iQube,1820757.79,3,207502.3,Individual,Lease,2025,2,1
+2025-03-02,East,Kolkata,Commercial EV,Electric Truck,10083152.63,3,1624809.24,Corporate,UPI,2025,3,1
+2025-03-04,South,Chennai,4-Wheeler EV,Tata Nexon EV,7543577.89,1,1200350.8,Fleet,UPI,2025,3,1
+2025-03-05,North,Lucknow,2-Wheeler EV,Ather 450X,2096169.06,3,188818.37,Corporate,Cash,2025,3,1
+2025-03-05,North,Delhi,2-Wheeler EV,Ather 450X,2750855.33,4,363553.83,Individual,Cash,2025,3,1
+2025-03-05,West,Pune,2-Wheeler EV,Ola S1,880417.42,2,143986.08,Individual,Loan,2025,3,1
+2025-03-07,North,Delhi,4-Wheeler EV,Mahindra XUV400,34532743.04,3,5564976.82,Corporate,Cash,2025,3,1
+2025-03-08,East,Patna,2-Wheeler EV,TVS iQube,2471079.83,4,394059.84,Corporate,Loan,2025,3,1
+2025-03-08,West,Pune,2-Wheeler EV,Ola S1,2251655.82,3,383121.07,Corporate,UPI,2025,3,1
+2025-03-10,East,Patna,Commercial EV,E-Rickshaw,1041554.12,1,102872.78,Individual,Cash,2025,3,1
+2025-03-12,West,Mumbai,2-Wheeler EV,Ola S1,569939.61,1,92182.94,Corporate,UPI,2025,3,1
+2025-03-14,East,Patna,4-Wheeler EV,MG ZS EV,38355010.13,5,3567560.77,Corporate,Loan,2025,3,1
+2025-03-14,South,Bangalore,2-Wheeler EV,Ola S1,1889518.52,3,203351.96,Fleet,Lease,2025,3,1
+2025-03-16,South,Chennai,4-Wheeler EV,Mahindra XUV400,31427827.51,5,3798439.37,Fleet,Lease,2025,3,1
+2025-03-16,North,Lucknow,Commercial EV,Electric Truck,5856270.71,4,524959.97,Corporate,Loan,2025,3,1
+2025-03-16,South,Bangalore,4-Wheeler EV,MG ZS EV,8401406.76,1,1176441.23,Corporate,Lease,2025,3,1
+2025-03-16,South,Hyderabad,Commercial EV,Electric Auto,9093246.12,4,1008073.05,Corporate,UPI,2025,3,1
+2025-03-17,East,Patna,4-Wheeler EV,Tata Nexon EV,30601782.78,5,5105456.21,Corporate,Cash,2025,3,1
+2025-03-17,East,Kolkata,Commercial EV,Electric Auto,4326163.43,2,575386.75,Individual,UPI,2025,3,1
+2025-03-18,East,Bhubaneswar,2-Wheeler EV,TVS iQube,1650498.83,2,212631.84,Individual,UPI,2025,3,1
+2025-03-18,West,Mumbai,2-Wheeler EV,Ola S1,2198133.45,4,203365.07,Corporate,Lease,2025,3,1
+2025-03-19,South,Chennai,4-Wheeler EV,Mahindra XUV400,11898056.97,2,1985913.82,Corporate,Loan,2025,3,1
+2025-03-19,West,Ahmedabad,4-Wheeler EV,MG ZS EV,11106749.5,2,1764105.19,Individual,Lease,2025,3,1
+2025-03-20,East,Patna,4-Wheeler EV,MG ZS EV,27799569.49,3,3244936.47,Corporate,Loan,2025,3,1
+2025-03-21,East,Kolkata,4-Wheeler EV,Mahindra XUV400,19781149.64,4,1810322.88,Fleet,Cash,2025,3,1
+2025-03-25,East,Kolkata,Commercial EV,Electric Truck,12776307.7,4,1149454.15,Fleet,Loan,2025,3,1
+2025-03-27,East,Patna,2-Wheeler EV,Ola S1,3033630.75,4,331628.87,Individual,Cash,2025,3,1
+2025-03-27,East,Kolkata,2-Wheeler EV,Ola S1,2353771.16,4,415415.26,Corporate,Lease,2025,3,1
+2025-03-29,West,Ahmedabad,4-Wheeler EV,Mahindra XUV400,35153025.53,4,4754313.54,Fleet,UPI,2025,3,1
+2025-04-06,North,Lucknow,2-Wheeler EV,Ola S1,3398865.43,4,489111.67,Fleet,Lease,2025,4,2
+2025-04-07,West,Mumbai,2-Wheeler EV,TVS iQube,734543.37,1,91432.82,Fleet,Loan,2025,4,2
+2025-04-07,North,Chandigarh,4-Wheeler EV,Tata Nexon EV,38776471.32,5,4859943.24,Corporate,UPI,2025,4,2
+2025-04-09,West,Mumbai,Commercial EV,E-Rickshaw,21911631.83,5,3565291.35,Individual,Lease,2025,4,2
+2025-04-12,South,Bangalore,Commercial EV,Electric Auto,15226864.08,4,2311469.12,Corporate,Cash,2025,4,2
+2025-04-14,South,Bangalore,Commercial EV,Electric Truck,12639468.56,4,1039451.14,Corporate,Lease,2025,4,2
+2025-04-15,North,Lucknow,4-Wheeler EV,Mahindra XUV400,23700599.0,3,3666283.1,Individual,UPI,2025,4,2
+2025-04-20,West,Mumbai,2-Wheeler EV,Ather 450X,3318163.54,4,310959.22,Corporate,UPI,2025,4,2
+2025-04-22,North,Lucknow,Commercial EV,Electric Truck,5551939.21,5,527309.43,Individual,Cash,2025,4,2
+2025-04-23,West,Mumbai,Commercial EV,E-Rickshaw,10244387.36,3,1441951.71,Individual,UPI,2025,4,2
+2025-04-23,East,Bhubaneswar,2-Wheeler EV,Ola S1,2101724.18,3,252305.78,Individual,UPI,2025,4,2
+2025-04-24,South,Hyderabad,2-Wheeler EV,Ather 450X,2597225.77,3,338851.93,Corporate,UPI,2025,4,2
+2025-04-24,West,Pune,2-Wheeler EV,Ather 450X,2031042.14,4,319514.4,Fleet,UPI,2025,4,2
+2025-04-27,East,Kolkata,2-Wheeler EV,TVS iQube,2616210.18,4,393916.71,Corporate,Cash,2025,4,2
+2025-04-28,West,Ahmedabad,4-Wheeler EV,Mahindra XUV400,25090817.09,3,4456069.67,Individual,UPI,2025,4,2
+2025-05-01,West,Ahmedabad,4-Wheeler EV,MG ZS EV,14909553.51,2,2545985.06,Individual,UPI,2025,5,2
+2025-05-05,North,Lucknow,4-Wheeler EV,Tata Nexon EV,8707198.13,1,1437933.95,Individual,Cash,2025,5,2
+2025-05-08,South,Chennai,2-Wheeler EV,Ather 450X,537367.28,1,92711.04,Fleet,Lease,2025,5,2
+2025-05-10,South,Chennai,4-Wheeler EV,MG ZS EV,22724714.24,5,3616687.55,Individual,Cash,2025,5,2
+2025-05-10,West,Mumbai,2-Wheeler EV,Ather 450X,2713873.79,4,282509.58,Individual,UPI,2025,5,2
+2025-05-16,South,Bangalore,Commercial EV,Electric Truck,8488926.96,4,1449099.44,Fleet,UPI,2025,5,2
+2025-05-19,North,Delhi,Commercial EV,Electric Truck,5493530.29,5,973998.59,Individual,UPI,2025,5,2
+2025-05-20,North,Lucknow,4-Wheeler EV,Tata Nexon EV,9670306.82,1,1354645.59,Fleet,Cash,2025,5,2
+2025-05-20,North,Delhi,4-Wheeler EV,Tata Nexon EV,41862830.41,5,4967808.54,Corporate,Lease,2025,5,2
+2025-05-21,West,Mumbai,2-Wheeler EV,Ola S1,2092578.88,4,299738.49,Corporate,Lease,2025,5,2
+2025-05-22,North,Chandigarh,Commercial EV,Electric Auto,12116222.57,3,2059364.96,Fleet,UPI,2025,5,2
+2025-05-22,North,Delhi,Commercial EV,E-Rickshaw,15955057.47,5,2363822.07,Individual,Loan,2025,5,2
+2025-05-22,East,Patna,2-Wheeler EV,TVS iQube,2718745.68,5,301337.5,Corporate,Lease,2025,5,2
+2025-05-25,North,Chandigarh,2-Wheeler EV,Ather 450X,2433631.42,4,194913.14,Corporate,Loan,2025,5,2
+2025-05-27,North,Delhi,Commercial EV,E-Rickshaw,9090360.47,5,1548656.91,Corporate,Lease,2025,5,2
+2025-05-28,East,Bhubaneswar,4-Wheeler EV,MG ZS EV,21570544.11,2,3324963.69,Corporate,Cash,2025,5,2
+2025-05-29,West,Pune,2-Wheeler EV,Ather 450X,3515754.18,5,291112.71,Corporate,Loan,2025,5,2
+2025-05-30,North,Delhi,2-Wheeler EV,Ola S1,502220.2,1,66643.71,Fleet,Lease,2025,5,2
+2025-06-04,West,Mumbai,2-Wheeler EV,Ola S1,4089510.29,5,450053.47,Individual,Lease,2025,6,2
+2025-06-04,East,Bhubaneswar,4-Wheeler EV,Tata Nexon EV,26998929.3,4,4104616.83,Corporate,Cash,2025,6,2
+2025-06-04,East,Kolkata,Commercial EV,Electric Truck,9143625.68,3,1383536.28,Fleet,Loan,2025,6,2
+2025-06-05,North,Delhi,Commercial EV,Electric Truck,11789007.18,5,1013147.82,Fleet,UPI,2025,6,2
+2025-06-07,West,Pune,4-Wheeler EV,MG ZS EV,16123570.72,3,1573426.41,Fleet,Cash,2025,6,2
+2025-06-07,East,Bhubaneswar,4-Wheeler EV,MG ZS EV,21259609.55,3,1737868.93,Individual,UPI,2025,6,2
+2025-06-08,East,Patna,4-Wheeler EV,Tata Nexon EV,7423313.27,1,1329220.06,Fleet,Cash,2025,6,2
+2025-06-13,West,Ahmedabad,4-Wheeler EV,MG ZS EV,20828863.75,3,2364212.16,Fleet,Lease,2025,6,2
+2025-06-14,West,Ahmedabad,4-Wheeler EV,MG ZS EV,9569412.43,1,1567373.3,Individual,UPI,2025,6,2
+2025-06-17,South,Hyderabad,2-Wheeler EV,TVS iQube,1617368.76,3,146012.39,Fleet,Loan,2025,6,2
+2025-06-17,West,Pune,4-Wheeler EV,Tata Nexon EV,15174134.39,2,1360082.95,Corporate,UPI,2025,6,2
+2025-06-17,East,Bhubaneswar,4-Wheeler EV,Mahindra XUV400,21870007.26,3,2353554.07,Fleet,UPI,2025,6,2
+2025-06-20,East,Kolkata,Commercial EV,Electric Truck,6783637.25,2,772380.48,Individual,Lease,2025,6,2
+2025-06-21,East,Kolkata,4-Wheeler EV,MG ZS EV,42088378.48,5,3707390.93,Individual,UPI,2025,6,2
+2025-06-21,East,Bhubaneswar,Commercial EV,Electric Auto,3063155.49,3,310656.93,Corporate,Cash,2025,6,2
+2025-06-23,West,Mumbai,2-Wheeler EV,Ather 450X,2115070.31,5,267979.99,Fleet,Lease,2025,6,2
+2025-06-24,East,Bhubaneswar,4-Wheeler EV,Mahindra XUV400,5755727.41,1,883829.03,Fleet,Loan,2025,6,2
+2025-06-24,North,Lucknow,Commercial EV,Electric Truck,7356083.62,2,1061702.72,Fleet,UPI,2025,6,2
+2025-06-28,North,Chandigarh,Commercial EV,E-Rickshaw,2961421.57,1,418927.56,Individual,Cash,2025,6,2
+2025-06-29,South,Chennai,4-Wheeler EV,Tata Nexon EV,24392091.04,4,2153780.01,Individual,Loan,2025,6,2
+2025-06-30,South,Chennai,2-Wheeler EV,TVS iQube,2699373.11,5,282174.46,Corporate,Lease,2025,6,2
+2025-07-01,North,Delhi,Commercial EV,E-Rickshaw,19801566.5,5,2520144.65,Fleet,Lease,2025,7,3
+2025-07-02,West,Mumbai,4-Wheeler EV,Mahindra XUV400,21828738.37,3,2882685.15,Individual,UPI,2025,7,3
+2025-07-02,North,Delhi,Commercial EV,E-Rickshaw,4060226.75,1,536747.49,Fleet,Lease,2025,7,3
+2025-07-03,West,Pune,Commercial EV,Electric Truck,7182814.05,3,1054053.99,Individual,Loan,2025,7,3
+2025-07-05,South,Hyderabad,2-Wheeler EV,TVS iQube,828437.68,1,145518.04,Corporate,Cash,2025,7,3
+2025-07-07,West,Pune,2-Wheeler EV,Ather 450X,1655999.13,3,159732.05,Individual,Lease,2025,7,3
+2025-07-08,West,Mumbai,Commercial EV,Electric Auto,12625228.2,3,1476863.11,Individual,Cash,2025,7,3
+2025-07-09,East,Patna,2-Wheeler EV,TVS iQube,783416.19,1,134158.77,Individual,UPI,2025,7,3
+2025-07-09,West,Ahmedabad,4-Wheeler EV,Tata Nexon EV,47712313.29,5,6042073.44,Corporate,Lease,2025,7,3
+2025-07-11,South,Hyderabad,2-Wheeler EV,Ola S1,1219292.65,2,148454.19,Corporate,UPI,2025,7,3
+2025-07-16,South,Hyderabad,4-Wheeler EV,Tata Nexon EV,26229196.3,5,2728913.81,Individual,Cash,2025,7,3
+2025-07-18,North,Chandigarh,4-Wheeler EV,Tata Nexon EV,30483627.29,5,2510199.3,Fleet,Lease,2025,7,3
+2025-07-19,North,Chandigarh,4-Wheeler EV,Tata Nexon EV,25431628.83,4,3527997.14,Corporate,Loan,2025,7,3
+2025-07-19,North,Lucknow,4-Wheeler EV,Mahindra XUV400,14893660.89,2,2254760.02,Fleet,UPI,2025,7,3
+2025-07-20,West,Pune,2-Wheeler EV,Ola S1,2058476.17,4,266472.8,Fleet,Lease,2025,7,3
+2025-07-23,South,Hyderabad,Commercial EV,Electric Auto,5502156.02,4,914630.87,Individual,Cash,2025,7,3
+2025-07-24,East,Kolkata,2-Wheeler EV,Ather 450X,2449850.82,5,206851.26,Corporate,Loan,2025,7,3
+2025-07-24,North,Chandigarh,4-Wheeler EV,Tata Nexon EV,20497840.74,3,2414851.35,Individual,Lease,2025,7,3
+2025-07-25,North,Delhi,4-Wheeler EV,MG ZS EV,18021052.55,3,3063492.92,Individual,Cash,2025,7,3
+2025-07-26,South,Hyderabad,2-Wheeler EV,Ather 450X,1234332.48,2,200122.51,Fleet,UPI,2025,7,3
+2025-07-27,East,Bhubaneswar,Commercial EV,E-Rickshaw,5943988.52,3,758417.88,Corporate,Cash,2025,7,3
+2025-07-28,South,Chennai,2-Wheeler EV,TVS iQube,3700963.99,5,517935.22,Individual,Loan,2025,7,3
+2025-07-28,North,Lucknow,4-Wheeler EV,Mahindra XUV400,22119607.06,3,1893401.16,Individual,UPI,2025,7,3
+2025-07-29,South,Bangalore,4-Wheeler EV,Mahindra XUV400,25412517.01,4,3200084.52,Fleet,Lease,2025,7,3
+2025-07-29,East,Bhubaneswar,2-Wheeler EV,Ather 450X,1295771.28,3,228401.54,Individual,UPI,2025,7,3
+2025-08-01,East,Kolkata,4-Wheeler EV,Mahindra XUV400,13328200.32,2,1388725.43,Corporate,UPI,2025,8,3
+2025-08-02,West,Mumbai,Commercial EV,Electric Truck,9342804.18,4,851186.34,Individual,Cash,2025,8,3
+2025-08-08,South,Hyderabad,Commercial EV,Electric Truck,15085274.93,5,1938405.6,Fleet,Cash,2025,8,3
+2025-08-08,South,Bangalore,Commercial EV,Electric Auto,10633174.39,4,1904351.5,Corporate,Loan,2025,8,3
+2025-08-09,West,Pune,Commercial EV,E-Rickshaw,7204141.83,5,674665.68,Corporate,Loan,2025,8,3
+2025-08-09,East,Bhubaneswar,Commercial EV,E-Rickshaw,3856033.17,1,533901.77,Individual,Lease,2025,8,3
+2025-08-10,East,Patna,2-Wheeler EV,Ola S1,1890878.45,3,158841.04,Fleet,Lease,2025,8,3
+2025-08-11,North,Delhi,2-Wheeler EV,TVS iQube,1934454.96,3,291849.35,Corporate,Loan,2025,8,3
+2025-08-11,North,Chandigarh,4-Wheeler EV,Mahindra XUV400,8414210.72,1,1254608.26,Fleet,Loan,2025,8,3
+2025-08-13,West,Pune,Commercial EV,Electric Truck,8332380.84,5,760975.04,Individual,Lease,2025,8,3
+2025-08-14,North,Chandigarh,4-Wheeler EV,Mahindra XUV400,37442053.82,5,4101661.74,Corporate,Loan,2025,8,3
+2025-08-14,South,Chennai,4-Wheeler EV,Tata Nexon EV,30137326.98,3,3321596.82,Corporate,Loan,2025,8,3
+2025-08-14,West,Pune,Commercial EV,E-Rickshaw,13505995.23,4,1626626.71,Individual,Lease,2025,8,3
+2025-08-16,East,Kolkata,2-Wheeler EV,TVS iQube,601560.09,1,91424.31,Fleet,UPI,2025,8,3
+2025-08-17,West,Ahmedabad,2-Wheeler EV,Ather 450X,798752.12,1,105281.63,Corporate,UPI,2025,8,3
+2025-08-17,West,Pune,2-Wheeler EV,TVS iQube,2266655.91,4,193336.1,Corporate,Lease,2025,8,3
+2025-08-18,South,Bangalore,4-Wheeler EV,Tata Nexon EV,27537294.96,3,2404734.43,Corporate,Loan,2025,8,3
+2025-08-19,South,Bangalore,4-Wheeler EV,Tata Nexon EV,14887802.03,2,2390396.44,Individual,Loan,2025,8,3
+2025-08-20,North,Delhi,4-Wheeler EV,Tata Nexon EV,10622663.77,1,1313469.44,Corporate,Lease,2025,8,3
+2025-08-20,North,Lucknow,2-Wheeler EV,Ather 450X,3633161.16,5,615698.71,Individual,Lease,2025,8,3
+2025-08-21,West,Ahmedabad,4-Wheeler EV,Tata Nexon EV,10680624.74,2,1050532.97,Individual,Loan,2025,8,3
+2025-08-22,West,Mumbai,Commercial EV,E-Rickshaw,6077990.05,5,663697.54,Individual,UPI,2025,8,3
+2025-08-22,West,Mumbai,2-Wheeler EV,Ather 450X,1374201.38,2,215045.11,Corporate,Loan,2025,8,3
+2025-08-23,South,Hyderabad,Commercial EV,Electric Truck,5832510.07,3,496077.8,Corporate,UPI,2025,8,3
+2025-08-26,West,Ahmedabad,Commercial EV,E-Rickshaw,13222465.49,4,1090467.7,Fleet,Loan,2025,8,3
+2025-08-29,West,Pune,4-Wheeler EV,Tata Nexon EV,23230609.44,4,3959568.91,Corporate,Lease,2025,8,3
+2025-08-29,West,Pune,4-Wheeler EV,Tata Nexon EV,29780794.89,3,3679195.3,Individual,UPI,2025,8,3
+2025-08-30,West,Pune,Commercial EV,E-Rickshaw,9970749.07,5,1239351.7,Individual,Lease,2025,8,3
+2025-08-31,North,Lucknow,Commercial EV,E-Rickshaw,2541905.59,2,443941.81,Corporate,Lease,2025,8,3
+2025-09-01,West,Ahmedabad,2-Wheeler EV,TVS iQube,1635265.77,2,197690.59,Corporate,Cash,2025,9,3
+2025-09-02,North,Lucknow,Commercial EV,Electric Truck,18962021.74,4,2757497.69,Individual,Lease,2025,9,3
+2025-09-02,West,Pune,4-Wheeler EV,Mahindra XUV400,17979091.7,2,2128519.66,Individual,UPI,2025,9,3
+2025-09-07,West,Ahmedabad,Commercial EV,Electric Truck,16755719.94,5,1629742.52,Corporate,Loan,2025,9,3
+2025-09-10,West,Pune,Commercial EV,Electric Auto,1922031.58,1,235151.64,Individual,Loan,2025,9,3
+2025-09-10,West,Mumbai,2-Wheeler EV,Ather 450X,698221.19,1,83882.54,Corporate,Cash,2025,9,3
+2025-09-12,North,Chandigarh,2-Wheeler EV,TVS iQube,3524871.59,5,631417.53,Fleet,Cash,2025,9,3
+2025-09-16,West,Pune,4-Wheeler EV,Mahindra XUV400,30732795.34,5,4242706.24,Individual,UPI,2025,9,3
+2025-09-17,East,Kolkata,4-Wheeler EV,MG ZS EV,6364843.35,1,633947.71,Fleet,Loan,2025,9,3
+2025-09-19,West,Mumbai,4-Wheeler EV,MG ZS EV,26338281.82,3,3174780.11,Corporate,Loan,2025,9,3
+2025-09-20,South,Chennai,Commercial EV,Electric Truck,10689554.04,3,1176358.4,Fleet,Lease,2025,9,3
+2025-09-20,East,Patna,Commercial EV,E-Rickshaw,7651131.84,2,1201719.29,Corporate,Lease,2025,9,3
+2025-09-22,West,Mumbai,2-Wheeler EV,Ather 450X,1068558.27,2,170749.37,Corporate,Lease,2025,9,3
+2025-09-23,East,Bhubaneswar,4-Wheeler EV,MG ZS EV,24736227.94,3,2205050.57,Corporate,Loan,2025,9,3
+2025-09-24,South,Hyderabad,4-Wheeler EV,MG ZS EV,25370599.8,3,2789275.44,Individual,Loan,2025,9,3
+2025-09-26,North,Delhi,Commercial EV,Electric Truck,2258200.31,1,302462.5,Individual,UPI,2025,9,3
+2025-09-28,East,Patna,2-Wheeler EV,Ather 450X,3292652.99,5,361733.58,Individual,Loan,2025,9,3
+2025-09-28,West,Mumbai,Commercial EV,E-Rickshaw,7627757.54,2,964757.77,Fleet,Lease,2025,9,3
+2025-09-30,South,Bangalore,4-Wheeler EV,Tata Nexon EV,6179409.66,1,952924.4,Fleet,UPI,2025,9,3
+2025-10-02,East,Bhubaneswar,4-Wheeler EV,Tata Nexon EV,59502633.54,5,6139890.77,Corporate,Loan,2025,10,4
+2025-10-03,East,Patna,2-Wheeler EV,Ather 450X,2857161.2,4,342199.67,Fleet,Cash,2025,10,4
+2025-10-05,East,Kolkata,Commercial EV,Electric Auto,14097340.33,4,1516632.34,Fleet,Loan,2025,10,4
+2025-10-08,South,Bangalore,Commercial EV,Electric Truck,4143466.37,3,505221.32,Fleet,Cash,2025,10,4
+2025-10-09,North,Chandigarh,Commercial EV,Electric Auto,1304337.72,1,173970.0,Corporate,Lease,2025,10,4
+2025-10-14,East,Kolkata,4-Wheeler EV,MG ZS EV,20951400.47,4,2292957.92,Fleet,Lease,2025,10,4
+2025-10-15,East,Kolkata,4-Wheeler EV,Tata Nexon EV,8303495.55,1,1262456.21,Fleet,Cash,2025,10,4
+2025-10-16,East,Patna,2-Wheeler EV,TVS iQube,2094043.03,5,288693.93,Individual,Lease,2025,10,4
+2025-10-20,North,Chandigarh,Commercial EV,Electric Truck,19302363.88,5,2369126.77,Fleet,Lease,2025,10,4
+2025-10-20,South,Hyderabad,4-Wheeler EV,MG ZS EV,40265771.5,5,3390644.74,Corporate,Cash,2025,10,4
+2025-10-20,West,Mumbai,2-Wheeler EV,Ather 450X,2305775.12,3,323615.92,Individual,UPI,2025,10,4
+2025-10-21,East,Patna,4-Wheeler EV,Tata Nexon EV,10751968.25,1,925803.05,Fleet,UPI,2025,10,4
+2025-10-23,North,Lucknow,Commercial EV,Electric Truck,15413815.51,4,1839258.22,Individual,Cash,2025,10,4
+2025-10-23,South,Chennai,2-Wheeler EV,TVS iQube,2539098.91,5,387082.37,Individual,Cash,2025,10,4
+2025-10-24,West,Ahmedabad,4-Wheeler EV,MG ZS EV,31842685.02,3,5292006.53,Corporate,Loan,2025,10,4
+2025-10-24,East,Bhubaneswar,Commercial EV,Electric Truck,5447556.79,3,848599.28,Fleet,Cash,2025,10,4
+2025-10-26,East,Kolkata,Commercial EV,Electric Auto,3437005.43,2,608366.8,Individual,UPI,2025,10,4
+2025-10-26,West,Mumbai,Commercial EV,Electric Truck,8254325.01,4,1165278.72,Fleet,Loan,2025,10,4
+2025-10-31,North,Chandigarh,Commercial EV,E-Rickshaw,15833172.71,5,1875584.52,Fleet,Loan,2025,10,4
+2025-11-01,North,Delhi,Commercial EV,E-Rickshaw,2473491.53,1,267923.55,Corporate,Lease,2025,11,4
+2025-11-01,South,Chennai,2-Wheeler EV,TVS iQube,1205205.65,2,154267.08,Individual,Cash,2025,11,4
+2025-11-01,West,Mumbai,Commercial EV,Electric Auto,8420911.57,3,1056947.81,Corporate,Lease,2025,11,4
+2025-11-02,South,Hyderabad,Commercial EV,E-Rickshaw,6341140.5,2,1119566.84,Individual,Loan,2025,11,4
+2025-11-02,North,Lucknow,Commercial EV,E-Rickshaw,11026948.1,3,1315714.93,Individual,Loan,2025,11,4
+2025-11-07,East,Patna,4-Wheeler EV,Tata Nexon EV,15807603.13,2,1776584.01,Individual,Cash,2025,11,4
+2025-11-08,West,Mumbai,4-Wheeler EV,MG ZS EV,52639141.45,5,7742782.77,Individual,Loan,2025,11,4
+2025-11-08,North,Lucknow,2-Wheeler EV,Ather 450X,3545534.13,5,540719.48,Fleet,UPI,2025,11,4
+2025-11-11,North,Delhi,2-Wheeler EV,Ather 450X,561365.77,1,69585.52,Corporate,Cash,2025,11,4
+2025-11-12,East,Patna,4-Wheeler EV,MG ZS EV,28522518.37,4,4103260.55,Fleet,UPI,2025,11,4
+2025-11-12,South,Bangalore,2-Wheeler EV,TVS iQube,2350106.36,3,343235.73,Fleet,Lease,2025,11,4
+2025-11-14,North,Lucknow,Commercial EV,E-Rickshaw,7749891.11,3,1149858.16,Fleet,Cash,2025,11,4
+2025-11-15,East,Bhubaneswar,2-Wheeler EV,TVS iQube,2055617.83,4,343923.82,Fleet,Loan,2025,11,4
+2025-11-17,North,Chandigarh,4-Wheeler EV,Tata Nexon EV,17259129.41,2,1796398.56,Fleet,Lease,2025,11,4
+2025-11-17,West,Pune,2-Wheeler EV,Ather 450X,2761364.25,5,376104.66,Individual,UPI,2025,11,4
+2025-11-17,North,Lucknow,Commercial EV,Electric Truck,6983291.17,4,1142890.61,Individual,Lease,2025,11,4
+2025-11-18,West,Ahmedabad,Commercial EV,E-Rickshaw,5714159.45,3,856032.43,Corporate,Loan,2025,11,4
+2025-11-19,West,Pune,4-Wheeler EV,Tata Nexon EV,21196801.29,2,3765624.17,Fleet,Loan,2025,11,4
+2025-11-19,West,Mumbai,Commercial EV,Electric Truck,3238317.63,1,578773.84,Fleet,UPI,2025,11,4
+2025-11-20,South,Chennai,4-Wheeler EV,Mahindra XUV400,8000021.87,1,795791.5,Individual,Loan,2025,11,4
+2025-11-21,East,Patna,4-Wheeler EV,MG ZS EV,24988988.27,4,4078532.88,Corporate,Cash,2025,11,4
+2025-11-22,North,Chandigarh,4-Wheeler EV,MG ZS EV,27623538.84,5,4624359.34,Individual,UPI,2025,11,4
+2025-11-22,North,Delhi,2-Wheeler EV,TVS iQube,2816398.92,4,489231.15,Corporate,Lease,2025,11,4
+2025-11-22,North,Delhi,Commercial EV,Electric Auto,10069834.13,5,1728478.4,Individual,Cash,2025,11,4
+2025-11-23,North,Delhi,Commercial EV,Electric Truck,8445998.08,4,999300.38,Fleet,Lease,2025,11,4
+2025-11-24,West,Mumbai,2-Wheeler EV,Ola S1,1375206.7,2,168869.66,Corporate,UPI,2025,11,4
+2025-11-25,East,Kolkata,2-Wheeler EV,TVS iQube,2344582.05,5,379353.85,Individual,Loan,2025,11,4
+2025-11-26,North,Chandigarh,Commercial EV,Electric Truck,14259410.36,5,2144988.96,Individual,Loan,2025,11,4
+2025-11-27,South,Chennai,4-Wheeler EV,Mahindra XUV400,5538465.61,1,651233.76,Fleet,Cash,2025,11,4
+2025-11-28,West,Ahmedabad,Commercial EV,E-Rickshaw,4006253.95,1,443128.53,Corporate,Cash,2025,11,4
+2025-11-29,East,Patna,4-Wheeler EV,Tata Nexon EV,24692371.21,3,4101130.8,Corporate,Cash,2025,11,4
+2025-11-29,East,Kolkata,2-Wheeler EV,TVS iQube,3373993.36,4,379270.35,Individual,Cash,2025,11,4
+2025-11-30,East,Patna,2-Wheeler EV,Ather 450X,1973046.07,5,232788.54,Individual,Cash,2025,11,4
+2025-12-01,South,Bangalore,4-Wheeler EV,Tata Nexon EV,9511394.98,1,843933.65,Fleet,Lease,2025,12,4
+2025-12-02,South,Bangalore,2-Wheeler EV,TVS iQube,419819.81,1,41242.66,Individual,Loan,2025,12,4
+2025-12-03,West,Mumbai,Commercial EV,Electric Auto,8369614.92,4,1180546.73,Individual,UPI,2025,12,4
+2025-12-07,West,Mumbai,2-Wheeler EV,Ather 450X,2213244.28,5,348428.61,Corporate,Cash,2025,12,4
+2025-12-08,West,Mumbai,2-Wheeler EV,Ather 450X,431598.48,1,53763.46,Individual,Loan,2025,12,4
+2025-12-09,East,Bhubaneswar,4-Wheeler EV,Tata Nexon EV,43385089.88,5,4688628.2,Corporate,Cash,2025,12,4
+2025-12-10,North,Lucknow,4-Wheeler EV,MG ZS EV,7115598.75,1,980057.68,Fleet,Cash,2025,12,4
+2025-12-10,East,Patna,Commercial EV,Electric Truck,6295301.88,4,650274.21,Individual,Cash,2025,12,4
+2025-12-11,North,Chandigarh,2-Wheeler EV,Ather 450X,1656915.67,3,260199.66,Fleet,Cash,2025,12,4
+2025-12-12,West,Ahmedabad,Commercial EV,Electric Truck,17606827.31,5,2892620.87,Fleet,Cash,2025,12,4
+2025-12-17,East,Kolkata,4-Wheeler EV,Mahindra XUV400,32024064.32,4,3593209.04,Corporate,Cash,2025,12,4
+2025-12-18,West,Pune,Commercial EV,Electric Truck,15336137.61,5,1958253.74,Fleet,Cash,2025,12,4
+2025-12-24,North,Delhi,Commercial EV,Electric Auto,9769895.52,5,1476000.49,Corporate,Lease,2025,12,4
+2025-12-25,South,Hyderabad,4-Wheeler EV,Mahindra XUV400,37688119.86,5,6261418.35,Corporate,Lease,2025,12,4
+2025-12-26,North,Lucknow,Commercial EV,E-Rickshaw,7106653.4,2,1139984.49,Individual,Loan,2025,12,4
+2025-12-27,West,Mumbai,4-Wheeler EV,Mahindra XUV400,11685454.68,2,1993240.54,Individual,UPI,2025,12,4
+2025-12-29,South,Bangalore,Commercial EV,E-Rickshaw,9007574.74,5,1224662.44,Corporate,Lease,2025,12,4
+2025-12-29,North,Chandigarh,4-Wheeler EV,Tata Nexon EV,15999849.4,3,2834542.33,Corporate,UPI,2025,12,4
+2025-12-31,East,Patna,2-Wheeler EV,Ola S1,886044.85,1,94917.55,Individual,UPI,2025,12,4
